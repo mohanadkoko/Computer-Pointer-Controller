@@ -162,7 +162,7 @@ my test has the lowest load time and the total on FP16 for my device .my device 
 <p align="center">
 <img src="https://github.com/mohanadkoko/Computer-Pointer-Controller/blob/main/bin/screenshot.png" width=400px height=350px/>
 </p>
-![alt text](https://github.com/mohanadkoko/Computer-Pointer-Controller/blob/main/bin/screenshot.png"WORKING CODE SHOT")
+![alt text](https://github.com/mohanadkoko/Computer-Pointer-Controller/blob/main/bin/screenshot.png "WORKING CODE SHOT")
 
 ### Comparison: Total model load time/Inference time
 ### Model load time & inference time  ***FP16***
