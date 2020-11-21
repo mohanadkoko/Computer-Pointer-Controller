@@ -14,6 +14,12 @@ all this with the help of openvino toolkit by using input image (video file or w
   - the program will better work perfectly if you use openvinot toolkit new release versions like from 2020.2 to 2021 " You need to install openvino successfully." 
   - install the library for python all listed on the requirments.txt, Check the requirement.txt
   - check the logging basic.log file and logging time.log 
+  - the demo video which will move the mouse Openvino setup process : [video demo](https://github.com/mohanadkoko/Computer-Pointer-Controller/blob/main/bin/demo.mp4)
+ <p align="center">
+<img src="https://github.com/mohanadkoko/Computer-Pointer-Controller/blob/main/output/Face_image.png" />
+</p>
+
+
 
 #### FAST WAY TO DOWNLOAD THE OPENVINO 
 
