@@ -160,7 +160,7 @@ GPU proccesed more frames per second compared to any other hardware and speciall
 my test has the lowest load time and the total on FP16 for my device .my device is intel `CORE I5`. since I tested the application with the demo video feed only, I was unable to test the accuracy for now.
 ## SCREENSHOT 
 <p align="center">
-<img src="Computer-Pointer-Controller/bin/screenshot.jpng" width=400px height=350px/>
+<img src="Computer-Pointer-Controller/bin/screenshot.png" width=400px height=350px/>
 </p>
 
 
