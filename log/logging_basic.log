@@ -1,0 +1,1364 @@
+2020-11-20 19:01:08,638 INFO Start computer_pointer.py
+2020-11-20 19:01:08,825 INFO Load model facedetection = Finished
+2020-11-20 19:01:08,935 INFO Load model Facial_Landmarks = Finished
+2020-11-20 19:01:09,171 INFO Load model head_pose_estimation = Finished
+2020-11-20 19:01:09,462 INFO Load model gaze_estimation = Finished
+2020-11-20 19:01:09,463 INFO All models are loaded!
+2020-11-20 19:01:09,463 INFO Input Feeder is loaded
+2020-11-20 19:01:09,629 INFO Start facedetection
+2020-11-20 19:01:09,731 INFO Inference facedetetion is finished
+2020-11-20 19:01:09,749 INFO Start faciallandmark
+2020-11-20 19:01:09,751 INFO End faciallandmarks
+2020-11-20 19:01:09,751 INFO Start headposeestimation
+2020-11-20 19:01:09,756 INFO End faciallheadposeestimationandmarks
+2020-11-20 19:01:09,756 INFO Start gazeestimation
+2020-11-20 19:01:09,762 INFO Gaze results: ([[ 0.21396738  0.08642007 -0.9592372 ]])
+2020-11-20 19:01:09,763 INFO End gazeestimation
+2020-11-20 19:01:09,839 INFO Start mousecontroller
+2020-11-20 19:01:11,091 INFO Start facedetection
+2020-11-20 19:01:11,187 INFO Inference facedetetion is finished
+2020-11-20 19:01:11,204 INFO Start faciallandmark
+2020-11-20 19:01:11,206 INFO End faciallandmarks
+2020-11-20 19:01:11,206 INFO Start headposeestimation
+2020-11-20 19:01:11,209 INFO End faciallheadposeestimationandmarks
+2020-11-20 19:01:11,210 INFO Start gazeestimation
+2020-11-20 19:01:11,215 INFO Gaze results: ([[-0.29236394  0.02081073 -0.92950076]])
+2020-11-20 19:01:11,215 INFO End gazeestimation
+2020-11-20 19:01:11,244 INFO Start mousecontroller
+2020-11-20 19:01:12,492 INFO Start facedetection
+2020-11-20 19:01:12,591 INFO Inference facedetetion is finished
+2020-11-20 19:01:12,606 INFO Start faciallandmark
+2020-11-20 19:01:12,608 INFO End faciallandmarks
+2020-11-20 19:01:12,608 INFO Start headposeestimation
+2020-11-20 19:01:12,611 INFO End faciallheadposeestimationandmarks
+2020-11-20 19:01:12,611 INFO Start gazeestimation
+2020-11-20 19:01:12,617 INFO Gaze results: ([[-0.3787974   0.01655421 -0.90581304]])
+2020-11-20 19:01:12,617 INFO End gazeestimation
+2020-11-20 19:01:12,646 INFO Start mousecontroller
+2020-11-20 19:01:13,901 INFO Start facedetection
+2020-11-20 19:01:13,998 INFO Inference facedetetion is finished
+2020-11-20 19:01:14,011 INFO Start faciallandmark
+2020-11-20 19:01:14,013 INFO End faciallandmarks
+2020-11-20 19:01:14,014 INFO Start headposeestimation
+2020-11-20 19:01:14,017 INFO End faciallheadposeestimationandmarks
+2020-11-20 19:01:14,017 INFO Start gazeestimation
+2020-11-20 19:01:14,022 INFO Gaze results: ([[-0.19716479 -0.10450413 -0.92368513]])
+2020-11-20 19:01:14,022 INFO End gazeestimation
+2020-11-20 19:01:14,051 INFO Start mousecontroller
+2020-11-20 19:01:15,303 INFO Start facedetection
+2020-11-20 19:01:15,399 INFO Inference facedetetion is finished
+2020-11-20 19:01:15,415 INFO Start faciallandmark
+2020-11-20 19:01:15,417 INFO End faciallandmarks
+2020-11-20 19:01:15,417 INFO Start headposeestimation
+2020-11-20 19:01:15,420 INFO End faciallheadposeestimationandmarks
+2020-11-20 19:01:15,420 INFO Start gazeestimation
+2020-11-20 19:01:15,425 INFO Gaze results: ([[ 0.03661925  0.09107339 -0.9825271 ]])
+2020-11-20 19:01:15,425 INFO End gazeestimation
+2020-11-20 19:01:15,456 INFO Start mousecontroller
+2020-11-20 19:01:16,717 INFO Start facedetection
+2020-11-20 19:01:16,812 INFO Inference facedetetion is finished
+2020-11-20 19:01:16,824 INFO Start faciallandmark
+2020-11-20 19:01:16,826 INFO End faciallandmarks
+2020-11-20 19:01:16,827 INFO Start headposeestimation
+2020-11-20 19:01:16,830 INFO End faciallheadposeestimationandmarks
+2020-11-20 19:01:16,830 INFO Start gazeestimation
+2020-11-20 19:01:16,835 INFO Gaze results: ([[ 0.08073038  0.08581886 -0.9858738 ]])
+2020-11-20 19:01:16,835 INFO End gazeestimation
+2020-11-20 19:01:16,864 INFO Start mousecontroller
+2020-11-20 19:01:18,112 INFO Start facedetection
+2020-11-20 19:01:18,214 INFO Inference facedetetion is finished
+2020-11-20 19:01:18,228 INFO Start faciallandmark
+2020-11-20 19:01:18,230 INFO End faciallandmarks
+2020-11-20 19:01:18,230 INFO Start headposeestimation
+2020-11-20 19:01:18,233 INFO End faciallheadposeestimationandmarks
+2020-11-20 19:01:18,234 INFO Start gazeestimation
+2020-11-20 19:01:18,239 INFO Gaze results: ([[ 0.00341297  0.05555428 -0.99683297]])
+2020-11-20 19:01:18,239 INFO End gazeestimation
+2020-11-20 19:01:18,268 INFO Start mousecontroller
+2020-11-20 19:01:19,515 INFO Start facedetection
+2020-11-20 19:01:19,614 INFO Inference facedetetion is finished
+2020-11-20 19:01:19,628 INFO Start faciallandmark
+2020-11-20 19:01:19,630 INFO End faciallandmarks
+2020-11-20 19:01:19,630 INFO Start headposeestimation
+2020-11-20 19:01:19,634 INFO End faciallheadposeestimationandmarks
+2020-11-20 19:01:19,634 INFO Start gazeestimation
+2020-11-20 19:01:19,638 INFO Gaze results: ([[ 0.32730028 -0.36166894 -0.86177075]])
+2020-11-20 19:01:19,639 INFO End gazeestimation
+2020-11-20 19:01:19,668 INFO Start mousecontroller
+2020-11-20 19:01:20,944 INFO Start facedetection
+2020-11-20 19:01:21,042 INFO Inference facedetetion is finished
+2020-11-20 19:01:21,057 INFO Start faciallandmark
+2020-11-20 19:01:21,058 INFO End faciallandmarks
+2020-11-20 19:01:21,059 INFO Start headposeestimation
+2020-11-20 19:01:21,062 INFO End faciallheadposeestimationandmarks
+2020-11-20 19:01:21,062 INFO Start gazeestimation
+2020-11-20 19:01:21,067 INFO Gaze results: ([[ 0.1938051  -0.35682926 -0.8961432 ]])
+2020-11-20 19:01:21,067 INFO End gazeestimation
+2020-11-20 19:01:21,096 INFO Start mousecontroller
+2020-11-20 19:01:22,345 INFO Start facedetection
+2020-11-20 19:01:22,444 INFO Inference facedetetion is finished
+2020-11-20 19:01:22,457 INFO Start faciallandmark
+2020-11-20 19:01:22,459 INFO End faciallandmarks
+2020-11-20 19:01:22,459 INFO Start headposeestimation
+2020-11-20 19:01:22,462 INFO End faciallheadposeestimationandmarks
+2020-11-20 19:01:22,463 INFO Start gazeestimation
+2020-11-20 19:01:22,468 INFO Gaze results: ([[ 0.36359236 -0.22449833 -0.90622455]])
+2020-11-20 19:01:22,468 INFO End gazeestimation
+2020-11-20 19:01:22,498 INFO Start mousecontroller
+2020-11-20 19:01:23,746 INFO Start facedetection
+2020-11-20 19:01:23,842 INFO Inference facedetetion is finished
+2020-11-20 19:01:23,855 INFO Start faciallandmark
+2020-11-20 19:01:23,857 INFO End faciallandmarks
+2020-11-20 19:01:23,857 INFO Start headposeestimation
+2020-11-20 19:01:23,860 INFO End faciallheadposeestimationandmarks
+2020-11-20 19:01:23,860 INFO Start gazeestimation
+2020-11-20 19:01:23,866 INFO Gaze results: ([[ 0.40923408 -0.30031613 -0.8717012 ]])
+2020-11-20 19:01:23,866 INFO End gazeestimation
+2020-11-20 19:01:23,895 INFO Start mousecontroller
+2020-11-20 19:01:25,149 INFO Start facedetection
+2020-11-20 19:01:25,246 INFO Inference facedetetion is finished
+2020-11-20 19:01:25,259 INFO Start faciallandmark
+2020-11-20 19:01:25,261 INFO End faciallandmarks
+2020-11-20 19:01:25,262 INFO Start headposeestimation
+2020-11-20 19:01:25,265 INFO End faciallheadposeestimationandmarks
+2020-11-20 19:01:25,265 INFO Start gazeestimation
+2020-11-20 19:01:25,270 INFO Gaze results: ([[ 0.30233717 -0.301759   -0.8917129 ]])
+2020-11-20 19:01:25,270 INFO End gazeestimation
+2020-11-20 19:01:25,299 INFO Start mousecontroller
+2020-11-20 19:01:26,557 INFO Start facedetection
+2020-11-20 19:01:26,653 INFO Inference facedetetion is finished
+2020-11-20 19:01:26,668 INFO Start faciallandmark
+2020-11-20 19:01:26,670 INFO End faciallandmarks
+2020-11-20 19:01:26,670 INFO Start headposeestimation
+2020-11-20 19:01:26,673 INFO End faciallheadposeestimationandmarks
+2020-11-20 19:01:26,674 INFO Start gazeestimation
+2020-11-20 19:01:26,679 INFO Gaze results: ([[ 0.35327765 -0.2578471  -0.87706417]])
+2020-11-20 19:01:26,679 INFO End gazeestimation
+2020-11-20 19:01:26,708 INFO Start mousecontroller
+2020-11-20 19:01:27,965 INFO Start facedetection
+2020-11-20 19:01:28,061 INFO Inference facedetetion is finished
+2020-11-20 19:01:28,075 INFO Start faciallandmark
+2020-11-20 19:01:28,077 INFO End faciallandmarks
+2020-11-20 19:01:28,077 INFO Start headposeestimation
+2020-11-20 19:01:28,080 INFO End faciallheadposeestimationandmarks
+2020-11-20 19:01:28,080 INFO Start gazeestimation
+2020-11-20 19:01:28,086 INFO Gaze results: ([[ 0.39132166 -0.30959868 -0.85114074]])
+2020-11-20 19:01:28,086 INFO End gazeestimation
+2020-11-20 19:01:28,116 INFO Start mousecontroller
+2020-11-20 19:01:29,380 INFO Start facedetection
+2020-11-20 19:01:29,483 INFO Inference facedetetion is finished
+2020-11-20 19:01:29,501 INFO Start faciallandmark
+2020-11-20 19:01:29,503 INFO End faciallandmarks
+2020-11-20 19:01:29,503 INFO Start headposeestimation
+2020-11-20 19:01:29,506 INFO End faciallheadposeestimationandmarks
+2020-11-20 19:01:29,506 INFO Start gazeestimation
+2020-11-20 19:01:29,512 INFO Gaze results: ([[ 0.40159336 -0.3076989  -0.85410345]])
+2020-11-20 19:01:29,512 INFO End gazeestimation
+2020-11-20 19:01:29,542 INFO Start mousecontroller
+2020-11-20 19:01:30,790 INFO Start facedetection
+2020-11-20 19:01:30,892 INFO Inference facedetetion is finished
+2020-11-20 19:01:30,908 INFO Start faciallandmark
+2020-11-20 19:01:30,910 INFO End faciallandmarks
+2020-11-20 19:01:30,910 INFO Start headposeestimation
+2020-11-20 19:01:30,913 INFO End faciallheadposeestimationandmarks
+2020-11-20 19:01:30,913 INFO Start gazeestimation
+2020-11-20 19:01:30,919 INFO Gaze results: ([[ 0.26618645 -0.23926991 -0.91922736]])
+2020-11-20 19:01:30,919 INFO End gazeestimation
+2020-11-20 19:01:30,949 INFO Start mousecontroller
+2020-11-20 19:01:31,410 ERROR PyAutoGUI fail-safe triggered from mouse moving to a corner of the screen. To disable this fail-safe, set pyautogui.FAILSAFE to False. DISABLING FAIL-SAFE IS NOT RECOMMENDED.
+2020-11-20 19:16:55,946 INFO Start computer_pointer.py
+2020-11-20 19:16:56,130 INFO Load model facedetection = Finished
+2020-11-20 19:16:56,213 INFO Load model Facial_Landmarks = Finished
+2020-11-20 19:16:56,320 INFO Load model head_pose_estimation = Finished
+2020-11-20 19:16:56,448 INFO Load model gaze_estimation = Finished
+2020-11-20 19:16:56,448 INFO All models are loaded!
+2020-11-20 19:16:56,449 INFO Input Feeder is loaded
+2020-11-20 19:16:56,620 INFO Start facedetection
+2020-11-20 19:16:56,723 INFO Inference facedetetion is finished
+2020-11-20 19:16:56,741 INFO Start faciallandmark
+2020-11-20 19:16:56,744 INFO End faciallandmarks
+2020-11-20 19:16:56,745 INFO Start headposeestimation
+2020-11-20 19:16:56,749 INFO End faciallheadposeestimationandmarks
+2020-11-20 19:16:56,749 INFO Start gazeestimation
+2020-11-20 19:16:56,756 INFO Gaze results: ([[ 0.21354246  0.08580999 -0.9610606 ]])
+2020-11-20 19:16:56,756 INFO End gazeestimation
+2020-11-20 19:16:56,834 INFO Start mousecontroller
+2020-11-20 19:16:58,087 INFO Start facedetection
+2020-11-20 19:16:58,189 INFO Inference facedetetion is finished
+2020-11-20 19:16:58,206 INFO Start faciallandmark
+2020-11-20 19:16:58,209 INFO End faciallandmarks
+2020-11-20 19:16:58,209 INFO Start headposeestimation
+2020-11-20 19:16:58,213 INFO End faciallheadposeestimationandmarks
+2020-11-20 19:16:58,214 INFO Start gazeestimation
+2020-11-20 19:16:58,219 INFO Gaze results: ([[-0.3892035   0.01252284 -0.9006268 ]])
+2020-11-20 19:16:58,219 INFO End gazeestimation
+2020-11-20 19:16:58,248 INFO Start mousecontroller
+2020-11-20 19:16:59,512 INFO Start facedetection
+2020-11-20 19:16:59,614 INFO Inference facedetetion is finished
+2020-11-20 19:16:59,629 INFO Start faciallandmark
+2020-11-20 19:16:59,631 INFO End faciallandmarks
+2020-11-20 19:16:59,631 INFO Start headposeestimation
+2020-11-20 19:16:59,634 INFO End faciallheadposeestimationandmarks
+2020-11-20 19:16:59,635 INFO Start gazeestimation
+2020-11-20 19:16:59,640 INFO Gaze results: ([[-0.36691314 -0.00153495 -0.915314  ]])
+2020-11-20 19:16:59,640 INFO End gazeestimation
+2020-11-20 19:16:59,669 INFO Start mousecontroller
+2020-11-20 19:17:00,945 INFO Start facedetection
+2020-11-20 19:17:01,043 INFO Inference facedetetion is finished
+2020-11-20 19:17:01,056 INFO Start faciallandmark
+2020-11-20 19:17:01,058 INFO End faciallandmarks
+2020-11-20 19:17:01,059 INFO Start headposeestimation
+2020-11-20 19:17:01,063 INFO End faciallheadposeestimationandmarks
+2020-11-20 19:17:01,063 INFO Start gazeestimation
+2020-11-20 19:17:01,069 INFO Gaze results: ([[-0.21585223 -0.11876899 -0.91488004]])
+2020-11-20 19:17:01,069 INFO End gazeestimation
+2020-11-20 19:17:01,098 INFO Start mousecontroller
+2020-11-20 19:17:02,362 INFO Start facedetection
+2020-11-20 19:17:02,463 INFO Inference facedetetion is finished
+2020-11-20 19:17:02,479 INFO Start faciallandmark
+2020-11-20 19:17:02,481 INFO End faciallandmarks
+2020-11-20 19:17:02,482 INFO Start headposeestimation
+2020-11-20 19:17:02,485 INFO End faciallheadposeestimationandmarks
+2020-11-20 19:17:02,485 INFO Start gazeestimation
+2020-11-20 19:17:02,491 INFO Gaze results: ([[ 0.04641044  0.069052   -0.9856358 ]])
+2020-11-20 19:17:02,491 INFO End gazeestimation
+2020-11-20 19:17:02,522 INFO Start mousecontroller
+2020-11-20 19:17:03,794 INFO Start facedetection
+2020-11-20 19:17:03,889 INFO Inference facedetetion is finished
+2020-11-20 19:17:03,902 INFO Start faciallandmark
+2020-11-20 19:17:03,904 INFO End faciallandmarks
+2020-11-20 19:17:03,904 INFO Start headposeestimation
+2020-11-20 19:17:03,907 INFO End faciallheadposeestimationandmarks
+2020-11-20 19:17:03,908 INFO Start gazeestimation
+2020-11-20 19:17:03,914 INFO Gaze results: ([[ 0.06081636  0.12094368 -0.9827126 ]])
+2020-11-20 19:17:03,914 INFO End gazeestimation
+2020-11-20 19:17:03,944 INFO Start mousecontroller
+2020-11-20 19:17:05,192 INFO Start facedetection
+2020-11-20 19:17:05,289 INFO Inference facedetetion is finished
+2020-11-20 19:17:05,301 INFO Start faciallandmark
+2020-11-20 19:17:05,303 INFO End faciallandmarks
+2020-11-20 19:17:05,304 INFO Start headposeestimation
+2020-11-20 19:17:05,307 INFO End faciallheadposeestimationandmarks
+2020-11-20 19:17:05,307 INFO Start gazeestimation
+2020-11-20 19:17:05,314 INFO Gaze results: ([[ 0.01752301  0.05766395 -0.99612486]])
+2020-11-20 19:17:05,314 INFO End gazeestimation
+2020-11-20 19:17:05,343 INFO Start mousecontroller
+2020-11-20 19:17:06,631 INFO Start facedetection
+2020-11-20 19:17:06,730 INFO Inference facedetetion is finished
+2020-11-20 19:17:06,745 INFO Start faciallandmark
+2020-11-20 19:17:06,747 INFO End faciallandmarks
+2020-11-20 19:17:06,747 INFO Start headposeestimation
+2020-11-20 19:17:06,751 INFO End faciallheadposeestimationandmarks
+2020-11-20 19:17:06,751 INFO Start gazeestimation
+2020-11-20 19:17:06,756 INFO Gaze results: ([[ 0.35216013 -0.36271885 -0.8500961 ]])
+2020-11-20 19:17:06,757 INFO End gazeestimation
+2020-11-20 19:17:06,786 INFO Start mousecontroller
+2020-11-20 19:17:08,081 INFO Start facedetection
+2020-11-20 19:17:08,180 INFO Inference facedetetion is finished
+2020-11-20 19:17:08,195 INFO Start faciallandmark
+2020-11-20 19:17:08,197 INFO End faciallandmarks
+2020-11-20 19:17:08,198 INFO Start headposeestimation
+2020-11-20 19:17:08,201 INFO End faciallheadposeestimationandmarks
+2020-11-20 19:17:08,201 INFO Start gazeestimation
+2020-11-20 19:17:08,207 INFO Gaze results: ([[ 0.23173149 -0.34005484 -0.89130497]])
+2020-11-20 19:17:08,207 INFO End gazeestimation
+2020-11-20 19:17:08,237 INFO Start mousecontroller
+2020-11-20 19:17:09,497 INFO Start facedetection
+2020-11-20 19:17:09,597 INFO Inference facedetetion is finished
+2020-11-20 19:17:09,611 INFO Start faciallandmark
+2020-11-20 19:17:09,612 INFO End faciallandmarks
+2020-11-20 19:17:09,613 INFO Start headposeestimation
+2020-11-20 19:17:09,616 INFO End faciallheadposeestimationandmarks
+2020-11-20 19:17:09,616 INFO Start gazeestimation
+2020-11-20 19:17:09,622 INFO Gaze results: ([[ 0.36643296 -0.22802225 -0.89600843]])
+2020-11-20 19:17:09,623 INFO End gazeestimation
+2020-11-20 19:17:09,652 INFO Start mousecontroller
+2020-11-20 19:17:10,917 INFO Start facedetection
+2020-11-20 19:17:11,013 INFO Inference facedetetion is finished
+2020-11-20 19:17:11,027 INFO Start faciallandmark
+2020-11-20 19:17:11,029 INFO End faciallandmarks
+2020-11-20 19:17:11,030 INFO Start headposeestimation
+2020-11-20 19:17:11,033 INFO End faciallheadposeestimationandmarks
+2020-11-20 19:17:11,033 INFO Start gazeestimation
+2020-11-20 19:17:11,039 INFO Gaze results: ([[ 0.43629903 -0.28281787 -0.86625946]])
+2020-11-20 19:17:11,039 INFO End gazeestimation
+2020-11-20 19:17:11,068 INFO Start mousecontroller
+2020-11-20 19:17:12,322 INFO Start facedetection
+2020-11-20 19:17:12,418 INFO Inference facedetetion is finished
+2020-11-20 19:17:12,431 INFO Start faciallandmark
+2020-11-20 19:17:12,433 INFO End faciallandmarks
+2020-11-20 19:17:12,434 INFO Start headposeestimation
+2020-11-20 19:17:12,437 INFO End faciallheadposeestimationandmarks
+2020-11-20 19:17:12,437 INFO Start gazeestimation
+2020-11-20 19:17:12,443 INFO Gaze results: ([[ 0.2675354  -0.32208407 -0.8868548 ]])
+2020-11-20 19:17:12,443 INFO End gazeestimation
+2020-11-20 19:17:12,472 INFO Start mousecontroller
+2020-11-20 19:17:13,723 INFO Start facedetection
+2020-11-20 19:17:13,820 INFO Inference facedetetion is finished
+2020-11-20 19:17:13,836 INFO Start faciallandmark
+2020-11-20 19:17:13,838 INFO End faciallandmarks
+2020-11-20 19:17:13,838 INFO Start headposeestimation
+2020-11-20 19:17:13,842 INFO End faciallheadposeestimationandmarks
+2020-11-20 19:17:13,842 INFO Start gazeestimation
+2020-11-20 19:17:13,849 INFO Gaze results: ([[ 0.34889093 -0.24022365 -0.87964404]])
+2020-11-20 19:17:13,849 INFO End gazeestimation
+2020-11-20 19:17:13,879 INFO Start mousecontroller
+2020-11-20 19:17:15,131 INFO Start facedetection
+2020-11-20 19:17:15,228 INFO Inference facedetetion is finished
+2020-11-20 19:17:15,242 INFO Start faciallandmark
+2020-11-20 19:17:15,244 INFO End faciallandmarks
+2020-11-20 19:17:15,244 INFO Start headposeestimation
+2020-11-20 19:17:15,248 INFO End faciallheadposeestimationandmarks
+2020-11-20 19:17:15,248 INFO Start gazeestimation
+2020-11-20 19:17:15,254 INFO Gaze results: ([[ 0.41752177 -0.31411907 -0.8365203 ]])
+2020-11-20 19:17:15,254 INFO End gazeestimation
+2020-11-20 19:17:15,284 INFO Start mousecontroller
+2020-11-20 19:17:15,643 ERROR PyAutoGUI fail-safe triggered from mouse moving to a corner of the screen. To disable this fail-safe, set pyautogui.FAILSAFE to False. DISABLING FAIL-SAFE IS NOT RECOMMENDED.
+2020-11-20 22:31:23,119 INFO Start computer_pointer.py
+2020-11-20 22:31:23,314 INFO Load model facedetection = Finished
+2020-11-20 22:31:23,398 INFO Load model Facial_Landmarks = Finished
+2020-11-20 22:31:23,506 INFO Load model head_pose_estimation = Finished
+2020-11-20 22:31:23,635 INFO Load model gaze_estimation = Finished
+2020-11-20 22:31:23,636 INFO All models are loaded!
+2020-11-20 22:31:23,636 INFO Input Feeder is loaded
+2020-11-20 22:31:23,811 INFO Start facedetection
+2020-11-20 22:31:23,914 INFO Inference facedetetion is finished
+2020-11-20 22:31:23,931 INFO Start faciallandmark
+2020-11-20 22:31:23,934 INFO End faciallandmarks
+2020-11-20 22:31:23,934 INFO Start headposeestimation
+2020-11-20 22:31:23,939 INFO End faciallheadposeestimationandmarks
+2020-11-20 22:31:23,939 INFO Start gazeestimation
+2020-11-20 22:31:23,946 INFO Gaze results: ([[ 0.21354246  0.08580999 -0.9610606 ]])
+2020-11-20 22:31:23,946 INFO End gazeestimation
+2020-11-20 22:31:24,024 INFO Start mousecontroller
+2020-11-20 22:31:25,283 INFO Start facedetection
+2020-11-20 22:31:25,380 INFO Inference facedetetion is finished
+2020-11-20 22:31:25,397 INFO Start faciallandmark
+2020-11-20 22:31:25,399 INFO End faciallandmarks
+2020-11-20 22:31:25,399 INFO Start headposeestimation
+2020-11-20 22:31:25,403 INFO End faciallheadposeestimationandmarks
+2020-11-20 22:31:25,403 INFO Start gazeestimation
+2020-11-20 22:31:25,410 INFO Gaze results: ([[-0.3892035   0.01252284 -0.9006268 ]])
+2020-11-20 22:31:25,410 INFO End gazeestimation
+2020-11-20 22:31:25,439 INFO Start mousecontroller
+2020-11-20 22:31:26,704 INFO Start facedetection
+2020-11-20 22:31:26,803 INFO Inference facedetetion is finished
+2020-11-20 22:31:26,818 INFO Start faciallandmark
+2020-11-20 22:31:26,820 INFO End faciallandmarks
+2020-11-20 22:31:26,820 INFO Start headposeestimation
+2020-11-20 22:31:26,824 INFO End faciallheadposeestimationandmarks
+2020-11-20 22:31:26,824 INFO Start gazeestimation
+2020-11-20 22:31:26,830 INFO Gaze results: ([[-0.36691314 -0.00153495 -0.915314  ]])
+2020-11-20 22:31:26,830 INFO End gazeestimation
+2020-11-20 22:31:26,859 INFO Start mousecontroller
+2020-11-20 22:31:28,108 INFO Start facedetection
+2020-11-20 22:31:28,204 INFO Inference facedetetion is finished
+2020-11-20 22:31:28,219 INFO Start faciallandmark
+2020-11-20 22:31:28,221 INFO End faciallandmarks
+2020-11-20 22:31:28,221 INFO Start headposeestimation
+2020-11-20 22:31:28,224 INFO End faciallheadposeestimationandmarks
+2020-11-20 22:31:28,225 INFO Start gazeestimation
+2020-11-20 22:31:28,230 INFO Gaze results: ([[-0.21585223 -0.11876899 -0.91488004]])
+2020-11-20 22:31:28,231 INFO End gazeestimation
+2020-11-20 22:31:28,233 INFO Start mousecontroller
+2020-11-20 22:31:29,481 INFO Start facedetection
+2020-11-20 22:31:29,577 INFO Inference facedetetion is finished
+2020-11-20 22:31:29,592 INFO Start faciallandmark
+2020-11-20 22:31:29,594 INFO End faciallandmarks
+2020-11-20 22:31:29,594 INFO Start headposeestimation
+2020-11-20 22:31:29,597 INFO End faciallheadposeestimationandmarks
+2020-11-20 22:31:29,598 INFO Start gazeestimation
+2020-11-20 22:31:29,604 INFO Gaze results: ([[ 0.04641044  0.069052   -0.9856358 ]])
+2020-11-20 22:31:29,604 INFO End gazeestimation
+2020-11-20 22:31:29,608 INFO Start mousecontroller
+2020-11-20 22:31:30,898 INFO Start facedetection
+2020-11-20 22:31:30,994 INFO Inference facedetetion is finished
+2020-11-20 22:31:31,006 INFO Start faciallandmark
+2020-11-20 22:31:31,008 INFO End faciallandmarks
+2020-11-20 22:31:31,009 INFO Start headposeestimation
+2020-11-20 22:31:31,012 INFO End faciallheadposeestimationandmarks
+2020-11-20 22:31:31,012 INFO Start gazeestimation
+2020-11-20 22:31:31,018 INFO Gaze results: ([[ 0.06081636  0.12094368 -0.9827126 ]])
+2020-11-20 22:31:31,018 INFO End gazeestimation
+2020-11-20 22:31:31,020 INFO Start mousecontroller
+2020-11-20 22:31:32,278 INFO Start facedetection
+2020-11-20 22:31:32,376 INFO Inference facedetetion is finished
+2020-11-20 22:31:32,389 INFO Start faciallandmark
+2020-11-20 22:31:32,391 INFO End faciallandmarks
+2020-11-20 22:31:32,392 INFO Start headposeestimation
+2020-11-20 22:31:32,396 INFO End faciallheadposeestimationandmarks
+2020-11-20 22:31:32,396 INFO Start gazeestimation
+2020-11-20 22:31:32,401 INFO Gaze results: ([[ 0.01752301  0.05766395 -0.99612486]])
+2020-11-20 22:31:32,401 INFO End gazeestimation
+2020-11-20 22:31:32,402 INFO Start mousecontroller
+2020-11-20 22:32:32,012 INFO Start computer_pointer.py
+2020-11-20 22:32:32,196 INFO Load model facedetection = Finished
+2020-11-20 22:32:32,280 INFO Load model Facial_Landmarks = Finished
+2020-11-20 22:32:32,387 INFO Load model head_pose_estimation = Finished
+2020-11-20 22:32:32,518 INFO Load model gaze_estimation = Finished
+2020-11-20 22:32:32,519 INFO All models are loaded!
+2020-11-20 22:32:32,519 INFO Input Feeder is loaded
+2020-11-20 22:32:32,687 INFO Start facedetection
+2020-11-20 22:32:32,789 INFO Inference facedetetion is finished
+2020-11-20 22:32:32,806 INFO Start faciallandmark
+2020-11-20 22:32:32,809 INFO End faciallandmarks
+2020-11-20 22:32:32,809 INFO Start headposeestimation
+2020-11-20 22:32:32,815 INFO End faciallheadposeestimationandmarks
+2020-11-20 22:32:32,816 INFO Start gazeestimation
+2020-11-20 22:32:32,823 INFO Gaze results: ([[ 0.21354246  0.08580999 -0.9610606 ]])
+2020-11-20 22:32:32,823 INFO End gazeestimation
+2020-11-20 22:32:32,903 INFO Start mousecontroller
+2020-11-20 22:32:34,168 INFO Start facedetection
+2020-11-20 22:32:34,264 INFO Inference facedetetion is finished
+2020-11-20 22:32:34,281 INFO Start faciallandmark
+2020-11-20 22:32:34,283 INFO End faciallandmarks
+2020-11-20 22:32:34,283 INFO Start headposeestimation
+2020-11-20 22:32:34,287 INFO End faciallheadposeestimationandmarks
+2020-11-20 22:32:34,288 INFO Start gazeestimation
+2020-11-20 22:32:34,295 INFO Gaze results: ([[-0.3892035   0.01252284 -0.9006268 ]])
+2020-11-20 22:32:34,295 INFO End gazeestimation
+2020-11-20 22:32:34,324 INFO Start mousecontroller
+2020-11-20 22:32:35,580 INFO Start facedetection
+2020-11-20 22:32:35,678 INFO Inference facedetetion is finished
+2020-11-20 22:32:35,693 INFO Start faciallandmark
+2020-11-20 22:32:35,695 INFO End faciallandmarks
+2020-11-20 22:32:35,695 INFO Start headposeestimation
+2020-11-20 22:32:35,699 INFO End faciallheadposeestimationandmarks
+2020-11-20 22:32:35,699 INFO Start gazeestimation
+2020-11-20 22:32:35,706 INFO Gaze results: ([[-0.36691314 -0.00153495 -0.915314  ]])
+2020-11-20 22:32:35,706 INFO End gazeestimation
+2020-11-20 22:32:35,735 INFO Start mousecontroller
+2020-11-20 22:33:03,685 INFO Start computer_pointer.py
+2020-11-20 22:33:28,171 INFO Start computer_pointer.py
+2020-11-20 22:33:28,356 INFO Load model facedetection = Finished
+2020-11-20 22:33:28,440 INFO Load model Facial_Landmarks = Finished
+2020-11-20 22:33:28,548 INFO Load model head_pose_estimation = Finished
+2020-11-20 22:33:28,676 INFO Load model gaze_estimation = Finished
+2020-11-20 22:33:28,677 INFO All models are loaded!
+2020-11-20 22:33:28,677 INFO Input Feeder is loaded
+2020-11-20 22:33:28,847 INFO Start facedetection
+2020-11-20 22:33:28,949 INFO Inference facedetetion is finished
+2020-11-20 22:33:28,967 INFO Start faciallandmark
+2020-11-20 22:33:28,969 INFO End faciallandmarks
+2020-11-20 22:33:28,969 INFO Start headposeestimation
+2020-11-20 22:33:28,975 INFO End faciallheadposeestimationandmarks
+2020-11-20 22:33:28,975 INFO Start gazeestimation
+2020-11-20 22:33:28,981 INFO Gaze results: ([[ 0.21354246  0.08580999 -0.9610606 ]])
+2020-11-20 22:33:28,981 INFO End gazeestimation
+2020-11-20 22:33:29,062 INFO Start mousecontroller
+2020-11-20 22:33:30,324 INFO Start facedetection
+2020-11-20 22:33:30,421 INFO Inference facedetetion is finished
+2020-11-20 22:33:30,438 INFO Start faciallandmark
+2020-11-20 22:33:30,439 INFO End faciallandmarks
+2020-11-20 22:33:30,440 INFO Start headposeestimation
+2020-11-20 22:33:30,444 INFO End faciallheadposeestimationandmarks
+2020-11-20 22:33:30,444 INFO Start gazeestimation
+2020-11-20 22:33:30,451 INFO Gaze results: ([[-0.3892035   0.01252284 -0.9006268 ]])
+2020-11-20 22:33:30,451 INFO End gazeestimation
+2020-11-20 22:33:30,481 INFO Start mousecontroller
+2020-11-20 22:35:51,446 INFO Start computer_pointer.py
+2020-11-20 22:35:51,634 INFO Load model facedetection = Finished
+2020-11-20 22:35:51,721 INFO Load model Facial_Landmarks = Finished
+2020-11-20 22:35:51,832 INFO Load model head_pose_estimation = Finished
+2020-11-20 22:35:51,960 INFO Load model gaze_estimation = Finished
+2020-11-20 22:35:51,960 INFO All models are loaded!
+2020-11-20 22:35:51,961 INFO Input Feeder is loaded
+2020-11-20 22:35:52,762 INFO Start facedetection
+2020-11-20 22:35:52,866 INFO Inference facedetetion is finished
+2020-11-20 22:35:52,866 INFO Start faciallandmark
+2020-11-20 22:35:52,868 INFO End faciallandmarks
+2020-11-20 22:35:52,868 INFO Start headposeestimation
+2020-11-20 22:35:52,874 INFO End faciallheadposeestimationandmarks
+2020-11-20 22:35:52,874 INFO Start gazeestimation
+2020-11-20 22:35:52,880 INFO Gaze results: ([[ 0.21354246  0.08580999 -0.9610606 ]])
+2020-11-20 22:35:52,881 INFO End gazeestimation
+2020-11-20 22:35:52,955 INFO Start mousecontroller
+2020-11-20 22:35:54,224 INFO Start facedetection
+2020-11-20 22:35:54,323 INFO Inference facedetetion is finished
+2020-11-20 22:35:54,323 INFO Start faciallandmark
+2020-11-20 22:35:54,325 INFO End faciallandmarks
+2020-11-20 22:35:54,325 INFO Start headposeestimation
+2020-11-20 22:35:54,329 INFO End faciallheadposeestimationandmarks
+2020-11-20 22:35:54,329 INFO Start gazeestimation
+2020-11-20 22:35:54,334 INFO Gaze results: ([[-0.3892035   0.01252284 -0.9006268 ]])
+2020-11-20 22:35:54,334 INFO End gazeestimation
+2020-11-20 22:35:54,363 INFO Start mousecontroller
+2020-11-20 22:35:55,633 INFO Start facedetection
+2020-11-20 22:35:55,732 INFO Inference facedetetion is finished
+2020-11-20 22:35:55,732 INFO Start faciallandmark
+2020-11-20 22:35:55,734 INFO End faciallandmarks
+2020-11-20 22:35:55,734 INFO Start headposeestimation
+2020-11-20 22:35:55,738 INFO End faciallheadposeestimationandmarks
+2020-11-20 22:35:55,738 INFO Start gazeestimation
+2020-11-20 22:35:55,744 INFO Gaze results: ([[-0.36691314 -0.00153495 -0.915314  ]])
+2020-11-20 22:35:55,744 INFO End gazeestimation
+2020-11-20 22:35:55,773 INFO Start mousecontroller
+2020-11-20 22:35:57,026 INFO Start facedetection
+2020-11-20 22:35:57,124 INFO Inference facedetetion is finished
+2020-11-20 22:35:57,124 INFO Start faciallandmark
+2020-11-20 22:35:57,126 INFO End faciallandmarks
+2020-11-20 22:35:57,126 INFO Start headposeestimation
+2020-11-20 22:35:57,130 INFO End faciallheadposeestimationandmarks
+2020-11-20 22:35:57,130 INFO Start gazeestimation
+2020-11-20 22:35:57,136 INFO Gaze results: ([[-0.21585223 -0.11876899 -0.91488004]])
+2020-11-20 22:35:57,136 INFO End gazeestimation
+2020-11-20 22:35:57,165 INFO Start mousecontroller
+2020-11-20 22:36:22,094 INFO Start computer_pointer.py
+2020-11-20 22:36:22,283 INFO Load model facedetection = Finished
+2020-11-20 22:36:22,368 INFO Load model Facial_Landmarks = Finished
+2020-11-20 22:36:22,475 INFO Load model head_pose_estimation = Finished
+2020-11-20 22:36:22,604 INFO Load model gaze_estimation = Finished
+2020-11-20 22:36:22,604 INFO All models are loaded!
+2020-11-20 22:36:22,604 INFO Input Feeder is loaded
+2020-11-20 22:36:22,649 ERROR name 'input_feed' is not defined
+2020-11-20 22:52:45,305 INFO Start computer_pointer.py
+2020-11-20 22:52:45,495 INFO Load model facedetection = Finished
+2020-11-20 22:52:45,580 INFO Load model Facial_Landmarks = Finished
+2020-11-20 22:52:45,692 INFO Load model head_pose_estimation = Finished
+2020-11-20 22:52:45,826 INFO Load model gaze_estimation = Finished
+2020-11-20 22:52:45,827 INFO All models are loaded!
+2020-11-20 22:52:45,827 INFO Input Feeder is loaded
+2020-11-20 22:52:45,998 INFO Start facedetection
+2020-11-20 22:52:46,107 INFO Inference facedetetion is finished
+2020-11-20 22:52:46,128 INFO Start faciallandmark
+2020-11-20 22:52:46,131 INFO End faciallandmarks
+2020-11-20 22:52:46,131 INFO Start headposeestimation
+2020-11-20 22:52:46,137 INFO End faciallheadposeestimationandmarks
+2020-11-20 22:52:46,137 INFO Start gazeestimation
+2020-11-20 22:52:46,143 INFO Gaze results: ([[ 0.21354246  0.08580999 -0.9610606 ]])
+2020-11-20 22:52:46,143 INFO End gazeestimation
+2020-11-20 22:52:46,218 INFO Start mousecontroller
+2020-11-20 22:52:47,479 INFO Start facedetection
+2020-11-20 22:52:47,579 INFO Inference facedetetion is finished
+2020-11-20 22:52:47,597 INFO Start faciallandmark
+2020-11-20 22:52:47,599 INFO End faciallandmarks
+2020-11-20 22:52:47,599 INFO Start headposeestimation
+2020-11-20 22:52:47,602 INFO End faciallheadposeestimationandmarks
+2020-11-20 22:52:47,603 INFO Start gazeestimation
+2020-11-20 22:52:47,609 INFO Gaze results: ([[-0.3892035   0.01252284 -0.9006268 ]])
+2020-11-20 22:52:47,609 INFO End gazeestimation
+2020-11-20 22:52:47,639 INFO Start mousecontroller
+2020-11-20 22:52:48,887 INFO Start facedetection
+2020-11-20 22:52:48,987 INFO Inference facedetetion is finished
+2020-11-20 22:52:49,002 INFO Start faciallandmark
+2020-11-20 22:52:49,005 INFO End faciallandmarks
+2020-11-20 22:52:49,005 INFO Start headposeestimation
+2020-11-20 22:52:49,009 INFO End faciallheadposeestimationandmarks
+2020-11-20 22:52:49,010 INFO Start gazeestimation
+2020-11-20 22:52:49,015 INFO Gaze results: ([[-0.36691314 -0.00153495 -0.915314  ]])
+2020-11-20 22:52:49,016 INFO End gazeestimation
+2020-11-20 22:52:49,045 INFO Start mousecontroller
+2020-11-20 22:52:50,297 INFO Start facedetection
+2020-11-20 22:52:50,401 INFO Inference facedetetion is finished
+2020-11-20 22:52:50,415 INFO Start faciallandmark
+2020-11-20 22:52:50,417 INFO End faciallandmarks
+2020-11-20 22:52:50,417 INFO Start headposeestimation
+2020-11-20 22:52:50,420 INFO End faciallheadposeestimationandmarks
+2020-11-20 22:52:50,421 INFO Start gazeestimation
+2020-11-20 22:52:50,427 INFO Gaze results: ([[-0.21585223 -0.11876899 -0.91488004]])
+2020-11-20 22:52:50,427 INFO End gazeestimation
+2020-11-20 22:52:50,457 INFO Start mousecontroller
+2020-11-20 22:52:51,700 INFO Start facedetection
+2020-11-20 22:52:51,801 INFO Inference facedetetion is finished
+2020-11-20 22:52:51,818 INFO Start faciallandmark
+2020-11-20 22:52:51,819 INFO End faciallandmarks
+2020-11-20 22:52:51,820 INFO Start headposeestimation
+2020-11-20 22:52:51,824 INFO End faciallheadposeestimationandmarks
+2020-11-20 22:52:51,824 INFO Start gazeestimation
+2020-11-20 22:52:51,831 INFO Gaze results: ([[ 0.04641044  0.069052   -0.9856358 ]])
+2020-11-20 22:52:51,831 INFO End gazeestimation
+2020-11-20 22:52:51,860 INFO Start mousecontroller
+2020-11-20 22:52:53,124 INFO Start facedetection
+2020-11-20 22:52:53,221 INFO Inference facedetetion is finished
+2020-11-20 22:52:53,234 INFO Start faciallandmark
+2020-11-20 22:52:53,236 INFO End faciallandmarks
+2020-11-20 22:52:53,236 INFO Start headposeestimation
+2020-11-20 22:52:53,240 INFO End faciallheadposeestimationandmarks
+2020-11-20 22:52:53,240 INFO Start gazeestimation
+2020-11-20 22:52:53,246 INFO Gaze results: ([[ 0.06081636  0.12094368 -0.9827126 ]])
+2020-11-20 22:52:53,246 INFO End gazeestimation
+2020-11-20 22:52:53,275 INFO Start mousecontroller
+2020-11-20 22:52:54,519 INFO Start facedetection
+2020-11-20 22:52:54,621 INFO Inference facedetetion is finished
+2020-11-20 22:52:54,635 INFO Start faciallandmark
+2020-11-20 22:52:54,637 INFO End faciallandmarks
+2020-11-20 22:52:54,637 INFO Start headposeestimation
+2020-11-20 22:52:54,640 INFO End faciallheadposeestimationandmarks
+2020-11-20 22:52:54,640 INFO Start gazeestimation
+2020-11-20 22:52:54,646 INFO Gaze results: ([[ 0.01752301  0.05766395 -0.99612486]])
+2020-11-20 22:52:54,646 INFO End gazeestimation
+2020-11-20 22:52:54,676 INFO Start mousecontroller
+2020-11-20 22:52:55,919 INFO Start facedetection
+2020-11-20 22:52:56,018 INFO Inference facedetetion is finished
+2020-11-20 22:52:56,036 INFO Start faciallandmark
+2020-11-20 22:52:56,037 INFO End faciallandmarks
+2020-11-20 22:52:56,038 INFO Start headposeestimation
+2020-11-20 22:52:56,041 INFO End faciallheadposeestimationandmarks
+2020-11-20 22:52:56,041 INFO Start gazeestimation
+2020-11-20 22:52:56,048 INFO Gaze results: ([[ 0.35216013 -0.36271885 -0.8500961 ]])
+2020-11-20 22:52:56,048 INFO End gazeestimation
+2020-11-20 22:52:56,078 INFO Start mousecontroller
+2020-11-20 22:52:57,341 INFO Start facedetection
+2020-11-20 22:52:57,439 INFO Inference facedetetion is finished
+2020-11-20 22:52:57,454 INFO Start faciallandmark
+2020-11-20 22:52:57,456 INFO End faciallandmarks
+2020-11-20 22:52:57,456 INFO Start headposeestimation
+2020-11-20 22:52:57,460 INFO End faciallheadposeestimationandmarks
+2020-11-20 22:52:57,460 INFO Start gazeestimation
+2020-11-20 22:52:57,466 INFO Gaze results: ([[ 0.23173149 -0.34005484 -0.89130497]])
+2020-11-20 22:52:57,467 INFO End gazeestimation
+2020-11-20 22:52:57,496 INFO Start mousecontroller
+2020-11-20 22:52:58,740 INFO Start facedetection
+2020-11-20 22:52:58,846 INFO Inference facedetetion is finished
+2020-11-20 22:52:58,861 INFO Start faciallandmark
+2020-11-20 22:52:58,864 INFO End faciallandmarks
+2020-11-20 22:52:58,864 INFO Start headposeestimation
+2020-11-20 22:52:58,867 INFO End faciallheadposeestimationandmarks
+2020-11-20 22:52:58,868 INFO Start gazeestimation
+2020-11-20 22:52:58,876 INFO Gaze results: ([[ 0.36643296 -0.22802225 -0.89600843]])
+2020-11-20 22:52:58,876 INFO End gazeestimation
+2020-11-20 22:52:58,905 INFO Start mousecontroller
+2020-11-20 22:53:00,152 INFO Start facedetection
+2020-11-20 22:53:00,251 INFO Inference facedetetion is finished
+2020-11-20 22:53:00,265 INFO Start faciallandmark
+2020-11-20 22:53:00,267 INFO End faciallandmarks
+2020-11-20 22:53:00,267 INFO Start headposeestimation
+2020-11-20 22:53:00,271 INFO End faciallheadposeestimationandmarks
+2020-11-20 22:53:00,271 INFO Start gazeestimation
+2020-11-20 22:53:00,277 INFO Gaze results: ([[ 0.43629903 -0.28281787 -0.86625946]])
+2020-11-20 22:53:00,277 INFO End gazeestimation
+2020-11-20 22:53:00,306 INFO Start mousecontroller
+2020-11-20 22:53:01,563 INFO Start facedetection
+2020-11-20 22:53:01,660 INFO Inference facedetetion is finished
+2020-11-20 22:53:01,674 INFO Start faciallandmark
+2020-11-20 22:53:01,676 INFO End faciallandmarks
+2020-11-20 22:53:01,676 INFO Start headposeestimation
+2020-11-20 22:53:01,679 INFO End faciallheadposeestimationandmarks
+2020-11-20 22:53:01,679 INFO Start gazeestimation
+2020-11-20 22:53:01,685 INFO Gaze results: ([[ 0.2675354  -0.32208407 -0.8868548 ]])
+2020-11-20 22:53:01,685 INFO End gazeestimation
+2020-11-20 22:53:01,715 INFO Start mousecontroller
+2020-11-20 22:53:02,957 INFO Start facedetection
+2020-11-20 22:53:03,059 INFO Inference facedetetion is finished
+2020-11-20 22:53:03,075 INFO Start faciallandmark
+2020-11-20 22:53:03,077 INFO End faciallandmarks
+2020-11-20 22:53:03,077 INFO Start headposeestimation
+2020-11-20 22:53:03,080 INFO End faciallheadposeestimationandmarks
+2020-11-20 22:53:03,081 INFO Start gazeestimation
+2020-11-20 22:53:03,087 INFO Gaze results: ([[ 0.34889093 -0.24022365 -0.87964404]])
+2020-11-20 22:53:03,087 INFO End gazeestimation
+2020-11-20 22:53:03,117 INFO Start mousecontroller
+2020-11-20 22:53:04,360 INFO Start facedetection
+2020-11-20 22:53:04,458 INFO Inference facedetetion is finished
+2020-11-20 22:53:04,472 INFO Start faciallandmark
+2020-11-20 22:53:04,474 INFO End faciallandmarks
+2020-11-20 22:53:04,474 INFO Start headposeestimation
+2020-11-20 22:53:04,478 INFO End faciallheadposeestimationandmarks
+2020-11-20 22:53:04,478 INFO Start gazeestimation
+2020-11-20 22:53:04,484 INFO Gaze results: ([[ 0.41752177 -0.31411907 -0.8365203 ]])
+2020-11-20 22:53:04,484 INFO End gazeestimation
+2020-11-20 22:53:04,513 INFO Start mousecontroller
+2020-11-20 22:53:04,717 ERROR PyAutoGUI fail-safe triggered from mouse moving to a corner of the screen. To disable this fail-safe, set pyautogui.FAILSAFE to False. DISABLING FAIL-SAFE IS NOT RECOMMENDED.
+2020-11-20 22:58:50,046 INFO Start computer_pointer.py
+2020-11-20 22:58:50,235 INFO Load model facedetection = Finished
+2020-11-20 22:58:50,321 INFO Load model Facial_Landmarks = Finished
+2020-11-20 22:58:50,436 INFO Load model head_pose_estimation = Finished
+2020-11-20 22:58:50,566 INFO Load model gaze_estimation = Finished
+2020-11-20 22:58:50,566 INFO All models are loaded!
+2020-11-20 22:58:50,566 INFO Input Feeder is loaded
+2020-11-20 22:58:50,740 INFO Start facedetection
+2020-11-20 22:58:50,844 INFO Inference facedetetion is finished
+2020-11-20 22:58:50,862 INFO Start faciallandmark
+2020-11-20 22:58:50,864 INFO End faciallandmarks
+2020-11-20 22:58:50,864 INFO Start headposeestimation
+2020-11-20 22:58:50,870 INFO End faciallheadposeestimationandmarks
+2020-11-20 22:58:50,870 INFO Start gazeestimation
+2020-11-20 22:58:50,877 INFO Gaze results: ([[ 0.21354246  0.08580999 -0.9610606 ]])
+2020-11-20 22:58:50,877 INFO End gazeestimation
+2020-11-20 22:58:50,954 INFO Start mousecontroller
+2020-11-20 22:58:52,221 INFO Start facedetection
+2020-11-20 22:58:52,319 INFO Inference facedetetion is finished
+2020-11-20 22:58:52,335 INFO Start faciallandmark
+2020-11-20 22:58:52,337 INFO End faciallandmarks
+2020-11-20 22:58:52,337 INFO Start headposeestimation
+2020-11-20 22:58:52,341 INFO End faciallheadposeestimationandmarks
+2020-11-20 22:58:52,342 INFO Start gazeestimation
+2020-11-20 22:58:52,348 INFO Gaze results: ([[-0.3892035   0.01252284 -0.9006268 ]])
+2020-11-20 22:58:52,348 INFO End gazeestimation
+2020-11-20 22:58:52,377 INFO Start mousecontroller
+2020-11-20 22:58:53,632 INFO Start facedetection
+2020-11-20 22:58:53,731 INFO Inference facedetetion is finished
+2020-11-20 22:58:53,746 INFO Start faciallandmark
+2020-11-20 22:58:53,747 INFO End faciallandmarks
+2020-11-20 22:58:53,748 INFO Start headposeestimation
+2020-11-20 22:58:53,751 INFO End faciallheadposeestimationandmarks
+2020-11-20 22:58:53,751 INFO Start gazeestimation
+2020-11-20 22:58:53,758 INFO Gaze results: ([[-0.36691314 -0.00153495 -0.915314  ]])
+2020-11-20 22:58:53,758 INFO End gazeestimation
+2020-11-20 22:58:53,788 INFO Start mousecontroller
+2020-11-20 22:58:55,042 INFO Start facedetection
+2020-11-20 22:58:55,140 INFO Inference facedetetion is finished
+2020-11-20 22:58:55,154 INFO Start faciallandmark
+2020-11-20 22:58:55,156 INFO End faciallandmarks
+2020-11-20 22:58:55,156 INFO Start headposeestimation
+2020-11-20 22:58:55,160 INFO End faciallheadposeestimationandmarks
+2020-11-20 22:58:55,160 INFO Start gazeestimation
+2020-11-20 22:58:55,165 INFO Gaze results: ([[-0.21585223 -0.11876899 -0.91488004]])
+2020-11-20 22:58:55,165 INFO End gazeestimation
+2020-11-20 22:58:55,194 INFO Start mousecontroller
+2020-11-20 22:58:56,443 INFO Start facedetection
+2020-11-20 22:58:56,538 INFO Inference facedetetion is finished
+2020-11-20 22:58:56,553 INFO Start faciallandmark
+2020-11-20 22:58:56,554 INFO End faciallandmarks
+2020-11-20 22:58:56,555 INFO Start headposeestimation
+2020-11-20 22:58:56,558 INFO End faciallheadposeestimationandmarks
+2020-11-20 22:58:56,559 INFO Start gazeestimation
+2020-11-20 22:58:56,564 INFO Gaze results: ([[ 0.04641044  0.069052   -0.9856358 ]])
+2020-11-20 22:58:56,565 INFO End gazeestimation
+2020-11-20 22:58:56,594 INFO Start mousecontroller
+2020-11-20 22:58:57,864 INFO Start facedetection
+2020-11-20 22:58:57,960 INFO Inference facedetetion is finished
+2020-11-20 22:58:57,972 INFO Start faciallandmark
+2020-11-20 22:58:57,975 INFO End faciallandmarks
+2020-11-20 22:58:57,975 INFO Start headposeestimation
+2020-11-20 22:58:57,979 INFO End faciallheadposeestimationandmarks
+2020-11-20 22:58:57,979 INFO Start gazeestimation
+2020-11-20 22:58:57,985 INFO Gaze results: ([[ 0.06081636  0.12094368 -0.9827126 ]])
+2020-11-20 22:58:57,985 INFO End gazeestimation
+2020-11-20 22:58:58,014 INFO Start mousecontroller
+2020-11-20 22:58:59,262 INFO Start facedetection
+2020-11-20 22:58:59,359 INFO Inference facedetetion is finished
+2020-11-20 22:58:59,372 INFO Start faciallandmark
+2020-11-20 22:58:59,374 INFO End faciallandmarks
+2020-11-20 22:58:59,374 INFO Start headposeestimation
+2020-11-20 22:58:59,380 INFO End faciallheadposeestimationandmarks
+2020-11-20 22:58:59,380 INFO Start gazeestimation
+2020-11-20 22:58:59,386 INFO Gaze results: ([[ 0.01752301  0.05766395 -0.99612486]])
+2020-11-20 22:58:59,386 INFO End gazeestimation
+2020-11-20 22:58:59,416 INFO Start mousecontroller
+2020-11-20 22:59:00,667 INFO Start facedetection
+2020-11-20 22:59:00,762 INFO Inference facedetetion is finished
+2020-11-20 22:59:00,780 INFO Start faciallandmark
+2020-11-20 22:59:00,782 INFO End faciallandmarks
+2020-11-20 22:59:00,782 INFO Start headposeestimation
+2020-11-20 22:59:00,785 INFO End faciallheadposeestimationandmarks
+2020-11-20 22:59:00,786 INFO Start gazeestimation
+2020-11-20 22:59:00,793 INFO Gaze results: ([[ 0.35216013 -0.36271885 -0.8500961 ]])
+2020-11-20 22:59:00,793 INFO End gazeestimation
+2020-11-20 22:59:00,822 INFO Start mousecontroller
+2020-11-20 22:59:02,091 INFO Start facedetection
+2020-11-20 22:59:02,187 INFO Inference facedetetion is finished
+2020-11-20 22:59:02,201 INFO Start faciallandmark
+2020-11-20 22:59:02,203 INFO End faciallandmarks
+2020-11-20 22:59:02,203 INFO Start headposeestimation
+2020-11-20 22:59:02,207 INFO End faciallheadposeestimationandmarks
+2020-11-20 22:59:02,207 INFO Start gazeestimation
+2020-11-20 22:59:02,213 INFO Gaze results: ([[ 0.23173149 -0.34005484 -0.89130497]])
+2020-11-20 22:59:02,213 INFO End gazeestimation
+2020-11-20 22:59:02,243 INFO Start mousecontroller
+2020-11-20 22:59:03,493 INFO Start facedetection
+2020-11-20 22:59:03,590 INFO Inference facedetetion is finished
+2020-11-20 22:59:03,606 INFO Start faciallandmark
+2020-11-20 22:59:03,607 INFO End faciallandmarks
+2020-11-20 22:59:03,608 INFO Start headposeestimation
+2020-11-20 22:59:03,611 INFO End faciallheadposeestimationandmarks
+2020-11-20 22:59:03,611 INFO Start gazeestimation
+2020-11-20 22:59:03,617 INFO Gaze results: ([[ 0.36643296 -0.22802225 -0.89600843]])
+2020-11-20 22:59:03,618 INFO End gazeestimation
+2020-11-20 22:59:03,647 INFO Start mousecontroller
+2020-11-20 22:59:04,898 INFO Start facedetection
+2020-11-20 22:59:04,995 INFO Inference facedetetion is finished
+2020-11-20 22:59:05,008 INFO Start faciallandmark
+2020-11-20 22:59:05,010 INFO End faciallandmarks
+2020-11-20 22:59:05,011 INFO Start headposeestimation
+2020-11-20 22:59:05,015 INFO End faciallheadposeestimationandmarks
+2020-11-20 22:59:05,015 INFO Start gazeestimation
+2020-11-20 22:59:05,021 INFO Gaze results: ([[ 0.43629903 -0.28281787 -0.86625946]])
+2020-11-20 22:59:05,021 INFO End gazeestimation
+2020-11-20 22:59:05,051 INFO Start mousecontroller
+2020-11-20 22:59:06,316 INFO Start facedetection
+2020-11-20 22:59:06,412 INFO Inference facedetetion is finished
+2020-11-20 22:59:06,425 INFO Start faciallandmark
+2020-11-20 22:59:06,427 INFO End faciallandmarks
+2020-11-20 22:59:06,427 INFO Start headposeestimation
+2020-11-20 22:59:06,432 INFO End faciallheadposeestimationandmarks
+2020-11-20 22:59:06,432 INFO Start gazeestimation
+2020-11-20 22:59:06,438 INFO Gaze results: ([[ 0.2675354  -0.32208407 -0.8868548 ]])
+2020-11-20 22:59:06,438 INFO End gazeestimation
+2020-11-20 22:59:06,467 INFO Start mousecontroller
+2020-11-20 22:59:07,712 INFO Start facedetection
+2020-11-20 22:59:07,810 INFO Inference facedetetion is finished
+2020-11-20 22:59:07,825 INFO Start faciallandmark
+2020-11-20 22:59:07,827 INFO End faciallandmarks
+2020-11-20 22:59:07,827 INFO Start headposeestimation
+2020-11-20 22:59:07,831 INFO End faciallheadposeestimationandmarks
+2020-11-20 22:59:07,832 INFO Start gazeestimation
+2020-11-20 22:59:07,837 INFO Gaze results: ([[ 0.34889093 -0.24022365 -0.87964404]])
+2020-11-20 22:59:07,838 INFO End gazeestimation
+2020-11-20 22:59:07,867 INFO Start mousecontroller
+2020-11-20 22:59:09,115 INFO Start facedetection
+2020-11-20 22:59:09,212 INFO Inference facedetetion is finished
+2020-11-20 22:59:09,226 INFO Start faciallandmark
+2020-11-20 22:59:09,228 INFO End faciallandmarks
+2020-11-20 22:59:09,229 INFO Start headposeestimation
+2020-11-20 22:59:09,232 INFO End faciallheadposeestimationandmarks
+2020-11-20 22:59:09,233 INFO Start gazeestimation
+2020-11-20 22:59:09,238 INFO Gaze results: ([[ 0.41752177 -0.31411907 -0.8365203 ]])
+2020-11-20 22:59:09,238 INFO End gazeestimation
+2020-11-20 22:59:09,267 INFO Start mousecontroller
+2020-11-20 22:59:10,530 INFO Start facedetection
+2020-11-20 22:59:10,633 INFO Inference facedetetion is finished
+2020-11-20 22:59:10,650 INFO Start faciallandmark
+2020-11-20 22:59:10,652 INFO End faciallandmarks
+2020-11-20 22:59:10,652 INFO Start headposeestimation
+2020-11-20 22:59:10,656 INFO End faciallheadposeestimationandmarks
+2020-11-20 22:59:10,656 INFO Start gazeestimation
+2020-11-20 22:59:10,664 INFO Gaze results: ([[ 0.3895287  -0.29066482 -0.86351925]])
+2020-11-20 22:59:10,664 INFO End gazeestimation
+2020-11-20 22:59:10,694 INFO Start mousecontroller
+2020-11-20 22:59:11,206 ERROR PyAutoGUI fail-safe triggered from mouse moving to a corner of the screen. To disable this fail-safe, set pyautogui.FAILSAFE to False. DISABLING FAIL-SAFE IS NOT RECOMMENDED.
+2020-11-20 23:03:35,610 INFO Start computer_pointer.py
+2020-11-20 23:03:35,814 INFO Load model facedetection = Finished
+2020-11-20 23:03:35,928 INFO Load model Facial_Landmarks = Finished
+2020-11-20 23:03:36,043 INFO Load model head_pose_estimation = Finished
+2020-11-20 23:03:36,169 INFO Load model gaze_estimation = Finished
+2020-11-20 23:03:36,169 INFO All models are loaded!
+2020-11-20 23:03:36,169 INFO Input Feeder is loaded
+2020-11-20 23:03:36,343 INFO Start facedetection
+2020-11-20 23:03:36,458 INFO Inference facedetetion is finished
+2020-11-20 23:03:36,475 INFO Start faciallandmark
+2020-11-20 23:03:36,477 INFO End faciallandmarks
+2020-11-20 23:03:36,477 INFO Start headposeestimation
+2020-11-20 23:03:36,483 INFO End faciallheadposeestimationandmarks
+2020-11-20 23:03:36,483 INFO Start gazeestimation
+2020-11-20 23:03:36,491 INFO Gaze results: ([[ 0.2136159   0.08575175 -0.9610276 ]])
+2020-11-20 23:03:36,491 INFO End gazeestimation
+2020-11-20 23:03:36,573 INFO Start mousecontroller
+2020-11-20 23:03:37,830 INFO Start facedetection
+2020-11-20 23:03:37,927 INFO Inference facedetetion is finished
+2020-11-20 23:03:37,943 INFO Start faciallandmark
+2020-11-20 23:03:37,945 INFO End faciallandmarks
+2020-11-20 23:03:37,946 INFO Start headposeestimation
+2020-11-20 23:03:37,949 INFO End faciallheadposeestimationandmarks
+2020-11-20 23:03:37,949 INFO Start gazeestimation
+2020-11-20 23:03:37,956 INFO Gaze results: ([[-0.37994325  0.05244695 -0.9046119 ]])
+2020-11-20 23:03:37,956 INFO End gazeestimation
+2020-11-20 23:03:37,985 INFO Start mousecontroller
+2020-11-20 23:03:39,232 INFO Start facedetection
+2020-11-20 23:03:39,330 INFO Inference facedetetion is finished
+2020-11-20 23:03:39,345 INFO Start faciallandmark
+2020-11-20 23:03:39,347 INFO End faciallandmarks
+2020-11-20 23:03:39,347 INFO Start headposeestimation
+2020-11-20 23:03:39,351 INFO End faciallheadposeestimationandmarks
+2020-11-20 23:03:39,351 INFO Start gazeestimation
+2020-11-20 23:03:39,359 INFO Gaze results: ([[-0.36676434 -0.00136384 -0.91529596]])
+2020-11-20 23:03:39,359 INFO End gazeestimation
+2020-11-20 23:03:39,389 INFO Start mousecontroller
+2020-11-20 23:03:40,635 INFO Start facedetection
+2020-11-20 23:03:40,731 INFO Inference facedetetion is finished
+2020-11-20 23:03:40,745 INFO Start faciallandmark
+2020-11-20 23:03:40,747 INFO End faciallandmarks
+2020-11-20 23:03:40,748 INFO Start headposeestimation
+2020-11-20 23:03:40,751 INFO End faciallheadposeestimationandmarks
+2020-11-20 23:03:40,752 INFO Start gazeestimation
+2020-11-20 23:03:40,759 INFO Gaze results: ([[-0.21609978 -0.11911532 -0.91472554]])
+2020-11-20 23:03:40,759 INFO End gazeestimation
+2020-11-20 23:03:40,788 INFO Start mousecontroller
+2020-11-20 23:03:42,038 INFO Start facedetection
+2020-11-20 23:03:42,134 INFO Inference facedetetion is finished
+2020-11-20 23:03:42,148 INFO Start faciallandmark
+2020-11-20 23:03:42,150 INFO End faciallandmarks
+2020-11-20 23:03:42,151 INFO Start headposeestimation
+2020-11-20 23:03:42,155 INFO End faciallheadposeestimationandmarks
+2020-11-20 23:03:42,155 INFO Start gazeestimation
+2020-11-20 23:03:42,162 INFO Gaze results: ([[ 0.04644579  0.06876963 -0.98563635]])
+2020-11-20 23:03:42,162 INFO End gazeestimation
+2020-11-20 23:03:42,192 INFO Start mousecontroller
+2020-11-20 23:03:43,436 INFO Start facedetection
+2020-11-20 23:03:43,532 INFO Inference facedetetion is finished
+2020-11-20 23:03:43,546 INFO Start faciallandmark
+2020-11-20 23:03:43,548 INFO End faciallandmarks
+2020-11-20 23:03:43,548 INFO Start headposeestimation
+2020-11-20 23:03:43,551 INFO End faciallheadposeestimationandmarks
+2020-11-20 23:03:43,551 INFO Start gazeestimation
+2020-11-20 23:03:43,558 INFO Gaze results: ([[ 0.06081549  0.12097765 -0.9826693 ]])
+2020-11-20 23:03:43,558 INFO End gazeestimation
+2020-11-20 23:03:43,587 INFO Start mousecontroller
+2020-11-20 23:03:44,833 INFO Start facedetection
+2020-11-20 23:03:44,929 INFO Inference facedetetion is finished
+2020-11-20 23:03:44,942 INFO Start faciallandmark
+2020-11-20 23:03:44,944 INFO End faciallandmarks
+2020-11-20 23:03:44,945 INFO Start headposeestimation
+2020-11-20 23:03:44,948 INFO End faciallheadposeestimationandmarks
+2020-11-20 23:03:44,948 INFO Start gazeestimation
+2020-11-20 23:03:44,954 INFO Gaze results: ([[ 0.01754168  0.05766193 -0.99610883]])
+2020-11-20 23:03:44,954 INFO End gazeestimation
+2020-11-20 23:03:44,983 INFO Start mousecontroller
+2020-11-20 23:03:46,235 INFO Start facedetection
+2020-11-20 23:03:46,388 INFO Inference facedetetion is finished
+2020-11-20 23:03:46,406 INFO Start faciallandmark
+2020-11-20 23:03:46,409 INFO End faciallandmarks
+2020-11-20 23:03:46,410 INFO Start headposeestimation
+2020-11-20 23:03:46,415 INFO End faciallheadposeestimationandmarks
+2020-11-20 23:03:46,415 INFO Start gazeestimation
+2020-11-20 23:03:46,424 INFO Gaze results: ([[ 0.35187063 -0.3626538  -0.8501474 ]])
+2020-11-20 23:03:46,425 INFO End gazeestimation
+2020-11-20 23:03:46,454 INFO Start mousecontroller
+2020-11-20 23:03:47,694 INFO Start facedetection
+2020-11-20 23:03:47,818 INFO Inference facedetetion is finished
+2020-11-20 23:03:47,841 INFO Start faciallandmark
+2020-11-20 23:03:47,843 INFO End faciallandmarks
+2020-11-20 23:03:47,843 INFO Start headposeestimation
+2020-11-20 23:03:47,849 INFO End faciallheadposeestimationandmarks
+2020-11-20 23:03:47,849 INFO Start gazeestimation
+2020-11-20 23:03:47,856 INFO Gaze results: ([[ 0.23176432 -0.34008133 -0.8912288 ]])
+2020-11-20 23:03:47,857 INFO End gazeestimation
+2020-11-20 23:03:47,886 INFO Start mousecontroller
+2020-11-20 23:03:49,116 INFO Start facedetection
+2020-11-20 23:03:49,221 INFO Inference facedetetion is finished
+2020-11-20 23:03:49,236 INFO Start faciallandmark
+2020-11-20 23:03:49,238 INFO End faciallandmarks
+2020-11-20 23:03:49,238 INFO Start headposeestimation
+2020-11-20 23:03:49,243 INFO End faciallheadposeestimationandmarks
+2020-11-20 23:03:49,243 INFO Start gazeestimation
+2020-11-20 23:03:49,250 INFO Gaze results: ([[ 0.36609513 -0.22819848 -0.89600426]])
+2020-11-20 23:03:49,250 INFO End gazeestimation
+2020-11-20 23:03:49,280 INFO Start mousecontroller
+2020-11-20 23:03:50,517 INFO Start facedetection
+2020-11-20 23:03:50,613 INFO Inference facedetetion is finished
+2020-11-20 23:03:50,627 INFO Start faciallandmark
+2020-11-20 23:03:50,630 INFO End faciallandmarks
+2020-11-20 23:03:50,630 INFO Start headposeestimation
+2020-11-20 23:03:50,633 INFO End faciallheadposeestimationandmarks
+2020-11-20 23:03:50,633 INFO Start gazeestimation
+2020-11-20 23:03:50,639 INFO Gaze results: ([[ 0.43604642 -0.283031   -0.86622834]])
+2020-11-20 23:03:50,639 INFO End gazeestimation
+2020-11-20 23:03:50,669 INFO Start mousecontroller
+2020-11-20 23:03:51,915 INFO Start facedetection
+2020-11-20 23:03:52,011 INFO Inference facedetetion is finished
+2020-11-20 23:03:52,025 INFO Start faciallandmark
+2020-11-20 23:03:52,027 INFO End faciallandmarks
+2020-11-20 23:03:52,027 INFO Start headposeestimation
+2020-11-20 23:03:52,031 INFO End faciallheadposeestimationandmarks
+2020-11-20 23:03:52,031 INFO Start gazeestimation
+2020-11-20 23:03:52,036 INFO Gaze results: ([[ 0.26741725 -0.32197115 -0.88682497]])
+2020-11-20 23:03:52,037 INFO End gazeestimation
+2020-11-20 23:03:52,066 INFO Start mousecontroller
+2020-11-20 23:03:53,318 INFO Start facedetection
+2020-11-20 23:03:53,415 INFO Inference facedetetion is finished
+2020-11-20 23:03:53,431 INFO Start faciallandmark
+2020-11-20 23:03:53,433 INFO End faciallandmarks
+2020-11-20 23:03:53,434 INFO Start headposeestimation
+2020-11-20 23:03:53,437 INFO End faciallheadposeestimationandmarks
+2020-11-20 23:03:53,437 INFO Start gazeestimation
+2020-11-20 23:03:53,443 INFO Gaze results: ([[ 0.34869906 -0.240332   -0.8796117 ]])
+2020-11-20 23:03:53,443 INFO End gazeestimation
+2020-11-20 23:03:53,472 INFO Start mousecontroller
+2020-11-20 23:03:54,718 INFO Start facedetection
+2020-11-20 23:03:54,814 INFO Inference facedetetion is finished
+2020-11-20 23:03:54,829 INFO Start faciallandmark
+2020-11-20 23:03:54,830 INFO End faciallandmarks
+2020-11-20 23:03:54,831 INFO Start headposeestimation
+2020-11-20 23:03:54,835 INFO End faciallheadposeestimationandmarks
+2020-11-20 23:03:54,835 INFO Start gazeestimation
+2020-11-20 23:03:54,841 INFO Gaze results: ([[ 0.4173461  -0.31417984 -0.8364633 ]])
+2020-11-20 23:03:54,841 INFO End gazeestimation
+2020-11-20 23:03:54,871 INFO Start mousecontroller
+2020-11-20 23:03:56,121 INFO Start facedetection
+2020-11-20 23:03:56,227 INFO Inference facedetetion is finished
+2020-11-20 23:03:56,244 INFO Start faciallandmark
+2020-11-20 23:03:56,246 INFO End faciallandmarks
+2020-11-20 23:03:56,246 INFO Start headposeestimation
+2020-11-20 23:03:56,249 INFO End faciallheadposeestimationandmarks
+2020-11-20 23:03:56,250 INFO Start gazeestimation
+2020-11-20 23:03:56,257 INFO Gaze results: ([[ 0.38949057 -0.29072705 -0.86344725]])
+2020-11-20 23:03:56,257 INFO End gazeestimation
+2020-11-20 23:03:56,287 INFO Start mousecontroller
+2020-11-20 23:03:56,799 ERROR PyAutoGUI fail-safe triggered from mouse moving to a corner of the screen. To disable this fail-safe, set pyautogui.FAILSAFE to False. DISABLING FAIL-SAFE IS NOT RECOMMENDED.
+2020-11-20 23:06:03,736 INFO Start computer_pointer.py
+2020-11-20 23:06:03,922 INFO Load model facedetection = Finished
+2020-11-20 23:06:04,033 INFO Load model Facial_Landmarks = Finished
+2020-11-20 23:06:04,272 INFO Load model head_pose_estimation = Finished
+2020-11-20 23:06:04,562 INFO Load model gaze_estimation = Finished
+2020-11-20 23:06:04,562 INFO All models are loaded!
+2020-11-20 23:06:04,562 INFO Input Feeder is loaded
+2020-11-20 23:06:04,734 INFO Start facedetection
+2020-11-20 23:06:04,836 INFO Inference facedetetion is finished
+2020-11-20 23:06:04,853 INFO Start faciallandmark
+2020-11-20 23:06:04,855 INFO End faciallandmarks
+2020-11-20 23:06:04,855 INFO Start headposeestimation
+2020-11-20 23:06:04,860 INFO End faciallheadposeestimationandmarks
+2020-11-20 23:06:04,860 INFO Start gazeestimation
+2020-11-20 23:06:04,867 INFO Gaze results: ([[ 0.21396738  0.08642007 -0.9592372 ]])
+2020-11-20 23:06:04,867 INFO End gazeestimation
+2020-11-20 23:06:04,944 INFO Start mousecontroller
+2020-11-20 23:06:06,199 INFO Start facedetection
+2020-11-20 23:06:06,295 INFO Inference facedetetion is finished
+2020-11-20 23:06:06,311 INFO Start faciallandmark
+2020-11-20 23:06:06,313 INFO End faciallandmarks
+2020-11-20 23:06:06,313 INFO Start headposeestimation
+2020-11-20 23:06:06,317 INFO End faciallheadposeestimationandmarks
+2020-11-20 23:06:06,317 INFO Start gazeestimation
+2020-11-20 23:06:06,323 INFO Gaze results: ([[-0.29236394  0.02081073 -0.92950076]])
+2020-11-20 23:06:06,323 INFO End gazeestimation
+2020-11-20 23:06:06,353 INFO Start mousecontroller
+2020-11-20 23:06:07,603 INFO Start facedetection
+2020-11-20 23:06:07,701 INFO Inference facedetetion is finished
+2020-11-20 23:06:07,716 INFO Start faciallandmark
+2020-11-20 23:06:07,718 INFO End faciallandmarks
+2020-11-20 23:06:07,719 INFO Start headposeestimation
+2020-11-20 23:06:07,721 INFO End faciallheadposeestimationandmarks
+2020-11-20 23:06:07,722 INFO Start gazeestimation
+2020-11-20 23:06:07,727 INFO Gaze results: ([[-0.3787974   0.01655421 -0.90581304]])
+2020-11-20 23:06:07,727 INFO End gazeestimation
+2020-11-20 23:06:07,756 INFO Start mousecontroller
+2020-11-20 23:06:09,007 INFO Start facedetection
+2020-11-20 23:06:09,104 INFO Inference facedetetion is finished
+2020-11-20 23:06:09,117 INFO Start faciallandmark
+2020-11-20 23:06:09,119 INFO End faciallandmarks
+2020-11-20 23:06:09,120 INFO Start headposeestimation
+2020-11-20 23:06:09,122 INFO End faciallheadposeestimationandmarks
+2020-11-20 23:06:09,123 INFO Start gazeestimation
+2020-11-20 23:06:09,128 INFO Gaze results: ([[-0.19716479 -0.10450413 -0.92368513]])
+2020-11-20 23:06:09,128 INFO End gazeestimation
+2020-11-20 23:06:09,157 INFO Start mousecontroller
+2020-11-20 23:06:10,406 INFO Start facedetection
+2020-11-20 23:06:10,499 INFO Inference facedetetion is finished
+2020-11-20 23:06:10,514 INFO Start faciallandmark
+2020-11-20 23:06:10,516 INFO End faciallandmarks
+2020-11-20 23:06:10,516 INFO Start headposeestimation
+2020-11-20 23:06:10,519 INFO End faciallheadposeestimationandmarks
+2020-11-20 23:06:10,520 INFO Start gazeestimation
+2020-11-20 23:06:10,525 INFO Gaze results: ([[ 0.03661925  0.09107339 -0.9825271 ]])
+2020-11-20 23:06:10,525 INFO End gazeestimation
+2020-11-20 23:06:10,555 INFO Start mousecontroller
+2020-11-20 23:06:11,822 INFO Start facedetection
+2020-11-20 23:06:11,916 INFO Inference facedetetion is finished
+2020-11-20 23:06:11,929 INFO Start faciallandmark
+2020-11-20 23:06:11,931 INFO End faciallandmarks
+2020-11-20 23:06:11,932 INFO Start headposeestimation
+2020-11-20 23:06:11,935 INFO End faciallheadposeestimationandmarks
+2020-11-20 23:06:11,936 INFO Start gazeestimation
+2020-11-20 23:06:11,940 INFO Gaze results: ([[ 0.08073038  0.08581886 -0.9858738 ]])
+2020-11-20 23:06:11,941 INFO End gazeestimation
+2020-11-20 23:06:11,969 INFO Start mousecontroller
+2020-11-20 23:06:13,221 INFO Start facedetection
+2020-11-20 23:06:13,318 INFO Inference facedetetion is finished
+2020-11-20 23:06:13,331 INFO Start faciallandmark
+2020-11-20 23:06:13,333 INFO End faciallandmarks
+2020-11-20 23:06:13,333 INFO Start headposeestimation
+2020-11-20 23:06:13,337 INFO End faciallheadposeestimationandmarks
+2020-11-20 23:06:13,337 INFO Start gazeestimation
+2020-11-20 23:06:13,342 INFO Gaze results: ([[ 0.00341297  0.05555428 -0.99683297]])
+2020-11-20 23:06:13,342 INFO End gazeestimation
+2020-11-20 23:06:13,372 INFO Start mousecontroller
+2020-11-20 23:06:14,625 INFO Start facedetection
+2020-11-20 23:06:14,721 INFO Inference facedetetion is finished
+2020-11-20 23:06:14,735 INFO Start faciallandmark
+2020-11-20 23:06:14,737 INFO End faciallandmarks
+2020-11-20 23:06:14,737 INFO Start headposeestimation
+2020-11-20 23:06:14,740 INFO End faciallheadposeestimationandmarks
+2020-11-20 23:06:14,741 INFO Start gazeestimation
+2020-11-20 23:06:14,746 INFO Gaze results: ([[ 0.32730028 -0.36166894 -0.86177075]])
+2020-11-20 23:06:14,746 INFO End gazeestimation
+2020-11-20 23:06:14,775 INFO Start mousecontroller
+2020-11-20 23:06:16,040 INFO Start facedetection
+2020-11-20 23:06:16,135 INFO Inference facedetetion is finished
+2020-11-20 23:06:16,150 INFO Start faciallandmark
+2020-11-20 23:06:16,151 INFO End faciallandmarks
+2020-11-20 23:06:16,152 INFO Start headposeestimation
+2020-11-20 23:06:16,155 INFO End faciallheadposeestimationandmarks
+2020-11-20 23:06:16,155 INFO Start gazeestimation
+2020-11-20 23:06:16,160 INFO Gaze results: ([[ 0.1938051  -0.35682926 -0.8961432 ]])
+2020-11-20 23:06:16,160 INFO End gazeestimation
+2020-11-20 23:06:16,190 INFO Start mousecontroller
+2020-11-20 23:06:17,436 INFO Start facedetection
+2020-11-20 23:06:17,536 INFO Inference facedetetion is finished
+2020-11-20 23:06:17,550 INFO Start faciallandmark
+2020-11-20 23:06:17,552 INFO End faciallandmarks
+2020-11-20 23:06:17,552 INFO Start headposeestimation
+2020-11-20 23:06:17,555 INFO End faciallheadposeestimationandmarks
+2020-11-20 23:06:17,555 INFO Start gazeestimation
+2020-11-20 23:06:17,561 INFO Gaze results: ([[ 0.36359236 -0.22449833 -0.90622455]])
+2020-11-20 23:06:17,561 INFO End gazeestimation
+2020-11-20 23:06:17,590 INFO Start mousecontroller
+2020-11-20 23:06:18,841 INFO Start facedetection
+2020-11-20 23:06:18,936 INFO Inference facedetetion is finished
+2020-11-20 23:06:18,950 INFO Start faciallandmark
+2020-11-20 23:06:18,952 INFO End faciallandmarks
+2020-11-20 23:06:18,952 INFO Start headposeestimation
+2020-11-20 23:06:18,955 INFO End faciallheadposeestimationandmarks
+2020-11-20 23:06:18,955 INFO Start gazeestimation
+2020-11-20 23:06:18,960 INFO Gaze results: ([[ 0.40923408 -0.30031613 -0.8717012 ]])
+2020-11-20 23:06:18,961 INFO End gazeestimation
+2020-11-20 23:06:18,990 INFO Start mousecontroller
+2020-11-20 23:06:19,861 ERROR PyAutoGUI fail-safe triggered from mouse moving to a corner of the screen. To disable this fail-safe, set pyautogui.FAILSAFE to False. DISABLING FAIL-SAFE IS NOT RECOMMENDED.
+2020-11-21 13:19:24,908 INFO Start computer_pointer.py
+2020-11-21 13:19:48,731 INFO Start computer_pointer.py
+2020-11-21 13:21:33,306 INFO Start computer_pointer.py
+2020-11-21 13:23:03,579 INFO Start computer_pointer.py
+2020-11-21 13:23:03,768 INFO Load model facedetection = Finished
+2020-11-21 13:23:03,884 INFO Load model Facial_Landmarks = Finished
+2020-11-21 13:23:04,126 INFO Load model head_pose_estimation = Finished
+2020-11-21 13:23:04,418 INFO Load model gaze_estimation = Finished
+2020-11-21 13:23:04,419 INFO All models are loaded!
+2020-11-21 13:23:04,419 INFO Input Feeder is loaded
+2020-11-21 13:23:04,584 INFO Start facedetection
+2020-11-21 13:23:04,686 INFO Inference facedetetion is finished
+2020-11-21 13:23:04,704 INFO Start faciallandmark
+2020-11-21 13:23:04,706 INFO End faciallandmarks
+2020-11-21 13:23:04,706 INFO Start headposeestimation
+2020-11-21 13:23:04,711 INFO End faciallheadposeestimationandmarks
+2020-11-21 13:23:04,711 INFO Start gazeestimation
+2020-11-21 13:23:04,717 INFO Gaze results: ([[ 0.21396738  0.08642007 -0.9592372 ]])
+2020-11-21 13:23:04,717 INFO End gazeestimation
+2020-11-21 13:23:04,796 INFO Start mousecontroller
+2020-11-21 13:23:06,053 INFO Start facedetection
+2020-11-21 13:23:06,152 INFO Inference facedetetion is finished
+2020-11-21 13:23:06,168 INFO Start faciallandmark
+2020-11-21 13:23:06,170 INFO End faciallandmarks
+2020-11-21 13:23:06,171 INFO Start headposeestimation
+2020-11-21 13:23:06,174 INFO End faciallheadposeestimationandmarks
+2020-11-21 13:23:06,174 INFO Start gazeestimation
+2020-11-21 13:23:06,180 INFO Gaze results: ([[-0.29236394  0.02081073 -0.92950076]])
+2020-11-21 13:23:06,180 INFO End gazeestimation
+2020-11-21 13:23:06,209 INFO Start mousecontroller
+2020-11-21 13:23:07,459 INFO Start facedetection
+2020-11-21 13:23:07,558 INFO Inference facedetetion is finished
+2020-11-21 13:23:07,573 INFO Start faciallandmark
+2020-11-21 13:23:07,576 INFO End faciallandmarks
+2020-11-21 13:23:07,576 INFO Start headposeestimation
+2020-11-21 13:23:07,579 INFO End faciallheadposeestimationandmarks
+2020-11-21 13:23:07,579 INFO Start gazeestimation
+2020-11-21 13:23:07,584 INFO Gaze results: ([[-0.3787974   0.01655421 -0.90581304]])
+2020-11-21 13:23:07,585 INFO End gazeestimation
+2020-11-21 13:23:07,614 INFO Start mousecontroller
+2020-11-21 13:23:08,867 INFO Start facedetection
+2020-11-21 13:23:08,964 INFO Inference facedetetion is finished
+2020-11-21 13:23:08,979 INFO Start faciallandmark
+2020-11-21 13:23:08,981 INFO End faciallandmarks
+2020-11-21 13:23:08,981 INFO Start headposeestimation
+2020-11-21 13:23:08,984 INFO End faciallheadposeestimationandmarks
+2020-11-21 13:23:08,984 INFO Start gazeestimation
+2020-11-21 13:23:08,989 INFO Gaze results: ([[-0.19716479 -0.10450413 -0.92368513]])
+2020-11-21 13:23:08,989 INFO End gazeestimation
+2020-11-21 13:23:09,019 INFO Start mousecontroller
+2020-11-21 13:23:10,265 INFO Start facedetection
+2020-11-21 13:23:10,361 INFO Inference facedetetion is finished
+2020-11-21 13:23:10,376 INFO Start faciallandmark
+2020-11-21 13:23:10,378 INFO End faciallandmarks
+2020-11-21 13:23:10,379 INFO Start headposeestimation
+2020-11-21 13:23:10,382 INFO End faciallheadposeestimationandmarks
+2020-11-21 13:23:10,382 INFO Start gazeestimation
+2020-11-21 13:23:10,387 INFO Gaze results: ([[ 0.03661925  0.09107339 -0.9825271 ]])
+2020-11-21 13:23:10,387 INFO End gazeestimation
+2020-11-21 13:23:10,417 INFO Start mousecontroller
+2020-11-21 13:23:11,681 INFO Start facedetection
+2020-11-21 13:23:11,776 INFO Inference facedetetion is finished
+2020-11-21 13:23:11,789 INFO Start faciallandmark
+2020-11-21 13:23:11,791 INFO End faciallandmarks
+2020-11-21 13:23:11,791 INFO Start headposeestimation
+2020-11-21 13:23:11,795 INFO End faciallheadposeestimationandmarks
+2020-11-21 13:23:11,795 INFO Start gazeestimation
+2020-11-21 13:23:11,800 INFO Gaze results: ([[ 0.08073038  0.08581886 -0.9858738 ]])
+2020-11-21 13:23:11,800 INFO End gazeestimation
+2020-11-21 13:23:11,830 INFO Start mousecontroller
+2020-11-21 13:23:13,078 INFO Start facedetection
+2020-11-21 13:23:13,178 INFO Inference facedetetion is finished
+2020-11-21 13:23:13,191 INFO Start faciallandmark
+2020-11-21 13:23:13,193 INFO End faciallandmarks
+2020-11-21 13:23:13,194 INFO Start headposeestimation
+2020-11-21 13:23:13,197 INFO End faciallheadposeestimationandmarks
+2020-11-21 13:23:13,197 INFO Start gazeestimation
+2020-11-21 13:23:13,202 INFO Gaze results: ([[ 0.00341297  0.05555428 -0.99683297]])
+2020-11-21 13:23:13,202 INFO End gazeestimation
+2020-11-21 13:23:13,204 INFO Start mousecontroller
+2020-11-21 13:23:14,456 INFO Start facedetection
+2020-11-21 13:23:14,556 INFO Inference facedetetion is finished
+2020-11-21 13:23:14,570 INFO Start faciallandmark
+2020-11-21 13:23:14,572 INFO End faciallandmarks
+2020-11-21 13:23:14,572 INFO Start headposeestimation
+2020-11-21 13:23:14,576 INFO End faciallheadposeestimationandmarks
+2020-11-21 13:23:14,576 INFO Start gazeestimation
+2020-11-21 13:23:14,581 INFO Gaze results: ([[ 0.32730028 -0.36166894 -0.86177075]])
+2020-11-21 13:23:14,581 INFO End gazeestimation
+2020-11-21 13:23:14,582 INFO Start mousecontroller
+2020-11-21 13:23:15,846 INFO Start facedetection
+2020-11-21 13:23:15,943 INFO Inference facedetetion is finished
+2020-11-21 13:23:15,957 INFO Start faciallandmark
+2020-11-21 13:23:15,960 INFO End faciallandmarks
+2020-11-21 13:23:15,960 INFO Start headposeestimation
+2020-11-21 13:23:15,963 INFO End faciallheadposeestimationandmarks
+2020-11-21 13:23:15,963 INFO Start gazeestimation
+2020-11-21 13:23:15,968 INFO Gaze results: ([[ 0.1938051  -0.35682926 -0.8961432 ]])
+2020-11-21 13:23:15,968 INFO End gazeestimation
+2020-11-21 13:23:15,998 INFO Start mousecontroller
+2020-11-21 13:23:17,251 INFO Start facedetection
+2020-11-21 13:23:17,349 INFO Inference facedetetion is finished
+2020-11-21 13:23:17,363 INFO Start faciallandmark
+2020-11-21 13:23:17,365 INFO End faciallandmarks
+2020-11-21 13:23:17,365 INFO Start headposeestimation
+2020-11-21 13:23:17,369 INFO End faciallheadposeestimationandmarks
+2020-11-21 13:23:17,369 INFO Start gazeestimation
+2020-11-21 13:23:17,374 INFO Gaze results: ([[ 0.36359236 -0.22449833 -0.90622455]])
+2020-11-21 13:23:17,374 INFO End gazeestimation
+2020-11-21 13:23:17,375 INFO Start mousecontroller
+2020-11-21 13:23:18,626 INFO Start facedetection
+2020-11-21 13:23:18,721 INFO Inference facedetetion is finished
+2020-11-21 13:23:18,735 INFO Start faciallandmark
+2020-11-21 13:23:18,736 INFO End faciallandmarks
+2020-11-21 13:23:18,737 INFO Start headposeestimation
+2020-11-21 13:23:18,740 INFO End faciallheadposeestimationandmarks
+2020-11-21 13:23:18,740 INFO Start gazeestimation
+2020-11-21 13:23:18,746 INFO Gaze results: ([[ 0.40923408 -0.30031613 -0.8717012 ]])
+2020-11-21 13:23:18,746 INFO End gazeestimation
+2020-11-21 13:23:18,775 INFO Start mousecontroller
+2020-11-21 13:23:20,033 INFO Start facedetection
+2020-11-21 13:23:20,129 INFO Inference facedetetion is finished
+2020-11-21 13:23:20,142 INFO Start faciallandmark
+2020-11-21 13:23:20,145 INFO End faciallandmarks
+2020-11-21 13:23:20,145 INFO Start headposeestimation
+2020-11-21 13:23:20,148 INFO End faciallheadposeestimationandmarks
+2020-11-21 13:23:20,148 INFO Start gazeestimation
+2020-11-21 13:23:20,153 INFO Gaze results: ([[ 0.30233717 -0.301759   -0.8917129 ]])
+2020-11-21 13:23:20,153 INFO End gazeestimation
+2020-11-21 13:23:20,154 INFO Start mousecontroller
+2020-11-21 13:23:21,413 INFO Start facedetection
+2020-11-21 13:23:21,512 INFO Inference facedetetion is finished
+2020-11-21 13:23:21,528 INFO Start faciallandmark
+2020-11-21 13:23:21,530 INFO End faciallandmarks
+2020-11-21 13:23:21,530 INFO Start headposeestimation
+2020-11-21 13:23:21,533 INFO End faciallheadposeestimationandmarks
+2020-11-21 13:23:21,533 INFO Start gazeestimation
+2020-11-21 13:23:21,538 INFO Gaze results: ([[ 0.35327765 -0.2578471  -0.87706417]])
+2020-11-21 13:23:21,538 INFO End gazeestimation
+2020-11-21 13:23:21,539 INFO Start mousecontroller
+2020-11-21 13:23:22,811 INFO Start facedetection
+2020-11-21 13:23:22,910 INFO Inference facedetetion is finished
+2020-11-21 13:23:22,925 INFO Start faciallandmark
+2020-11-21 13:23:22,927 INFO End faciallandmarks
+2020-11-21 13:23:22,927 INFO Start headposeestimation
+2020-11-21 13:23:22,930 INFO End faciallheadposeestimationandmarks
+2020-11-21 13:23:22,930 INFO Start gazeestimation
+2020-11-21 13:23:22,935 INFO Gaze results: ([[ 0.39132166 -0.30959868 -0.85114074]])
+2020-11-21 13:23:22,935 INFO End gazeestimation
+2020-11-21 13:23:22,965 INFO Start mousecontroller
+2020-11-21 13:23:23,322 ERROR PyAutoGUI fail-safe triggered from mouse moving to a corner of the screen. To disable this fail-safe, set pyautogui.FAILSAFE to False. DISABLING FAIL-SAFE IS NOT RECOMMENDED.
+2020-11-21 13:28:39,802 INFO Start computer_pointer.py
+2020-11-21 13:28:39,997 INFO Load model facedetection = Finished
+2020-11-21 13:28:40,112 INFO Load model Facial_Landmarks = Finished
+2020-11-21 13:28:40,358 INFO Load model head_pose_estimation = Finished
+2020-11-21 13:28:40,658 INFO Load model gaze_estimation = Finished
+2020-11-21 13:28:40,659 INFO All models are loaded!
+2020-11-21 13:28:40,659 INFO Input Feeder is loaded
+2020-11-21 13:28:40,842 INFO Start facedetection
+2020-11-21 13:28:40,955 INFO Inference facedetetion is finished
+2020-11-21 13:28:40,974 INFO Start faciallandmark
+2020-11-21 13:28:40,976 INFO End faciallandmarks
+2020-11-21 13:28:40,976 INFO Start headposeestimation
+2020-11-21 13:28:40,981 INFO End faciallheadposeestimationandmarks
+2020-11-21 13:28:40,981 INFO Start gazeestimation
+2020-11-21 13:28:40,987 INFO Gaze results: ([[ 0.21396738  0.08642007 -0.9592372 ]])
+2020-11-21 13:28:40,987 INFO End gazeestimation
+2020-11-21 13:28:41,063 INFO Start mousecontroller
+2020-11-21 13:28:42,343 INFO Start facedetection
+2020-11-21 13:28:42,441 INFO Inference facedetetion is finished
+2020-11-21 13:28:42,457 INFO Start faciallandmark
+2020-11-21 13:28:42,459 INFO End faciallandmarks
+2020-11-21 13:28:42,459 INFO Start headposeestimation
+2020-11-21 13:28:42,462 INFO End faciallheadposeestimationandmarks
+2020-11-21 13:28:42,462 INFO Start gazeestimation
+2020-11-21 13:28:42,467 INFO Gaze results: ([[-0.29236394  0.02081073 -0.92950076]])
+2020-11-21 13:28:42,467 INFO End gazeestimation
+2020-11-21 13:28:42,496 INFO Start mousecontroller
+2020-11-21 13:28:43,772 INFO Start facedetection
+2020-11-21 13:28:43,874 INFO Inference facedetetion is finished
+2020-11-21 13:28:43,888 INFO Start faciallandmark
+2020-11-21 13:28:43,890 INFO End faciallandmarks
+2020-11-21 13:28:43,890 INFO Start headposeestimation
+2020-11-21 13:28:43,894 INFO End faciallheadposeestimationandmarks
+2020-11-21 13:28:43,894 INFO Start gazeestimation
+2020-11-21 13:28:43,899 INFO Gaze results: ([[-0.3787974   0.01655421 -0.90581304]])
+2020-11-21 13:28:43,900 INFO End gazeestimation
+2020-11-21 13:28:43,928 INFO Start mousecontroller
+2020-11-21 13:28:45,190 INFO Start facedetection
+2020-11-21 13:28:45,286 INFO Inference facedetetion is finished
+2020-11-21 13:28:45,301 INFO Start faciallandmark
+2020-11-21 13:28:45,303 INFO End faciallandmarks
+2020-11-21 13:28:45,304 INFO Start headposeestimation
+2020-11-21 13:28:45,307 INFO End faciallheadposeestimationandmarks
+2020-11-21 13:28:45,307 INFO Start gazeestimation
+2020-11-21 13:28:45,312 INFO Gaze results: ([[-0.19716479 -0.10450413 -0.92368513]])
+2020-11-21 13:28:45,312 INFO End gazeestimation
+2020-11-21 13:28:45,342 INFO Start mousecontroller
+2020-11-21 13:28:46,618 INFO Start facedetection
+2020-11-21 13:28:46,716 INFO Inference facedetetion is finished
+2020-11-21 13:28:46,731 INFO Start faciallandmark
+2020-11-21 13:28:46,733 INFO End faciallandmarks
+2020-11-21 13:28:46,733 INFO Start headposeestimation
+2020-11-21 13:28:46,736 INFO End faciallheadposeestimationandmarks
+2020-11-21 13:28:46,736 INFO Start gazeestimation
+2020-11-21 13:28:46,742 INFO Gaze results: ([[ 0.03661925  0.09107339 -0.9825271 ]])
+2020-11-21 13:28:46,743 INFO End gazeestimation
+2020-11-21 13:28:46,771 INFO Start mousecontroller
+2020-11-21 13:28:48,065 INFO Start facedetection
+2020-11-21 13:28:48,163 INFO Inference facedetetion is finished
+2020-11-21 13:28:48,176 INFO Start faciallandmark
+2020-11-21 13:28:48,178 INFO End faciallandmarks
+2020-11-21 13:28:48,178 INFO Start headposeestimation
+2020-11-21 13:28:48,181 INFO End faciallheadposeestimationandmarks
+2020-11-21 13:28:48,181 INFO Start gazeestimation
+2020-11-21 13:28:48,187 INFO Gaze results: ([[ 0.08073038  0.08581886 -0.9858738 ]])
+2020-11-21 13:28:48,187 INFO End gazeestimation
+2020-11-21 13:28:48,216 INFO Start mousecontroller
+2020-11-21 13:28:49,461 INFO Start facedetection
+2020-11-21 13:28:49,560 INFO Inference facedetetion is finished
+2020-11-21 13:28:49,572 INFO Start faciallandmark
+2020-11-21 13:28:49,574 INFO End faciallandmarks
+2020-11-21 13:28:49,574 INFO Start headposeestimation
+2020-11-21 13:28:49,577 INFO End faciallheadposeestimationandmarks
+2020-11-21 13:28:49,578 INFO Start gazeestimation
+2020-11-21 13:28:49,582 INFO Gaze results: ([[ 0.00341297  0.05555428 -0.99683297]])
+2020-11-21 13:28:49,582 INFO End gazeestimation
+2020-11-21 13:28:49,612 INFO Start mousecontroller
+2020-11-21 13:28:50,867 INFO Start facedetection
+2020-11-21 13:28:50,965 INFO Inference facedetetion is finished
+2020-11-21 13:28:50,983 INFO Start faciallandmark
+2020-11-21 13:28:50,985 INFO End faciallandmarks
+2020-11-21 13:28:50,986 INFO Start headposeestimation
+2020-11-21 13:28:50,989 INFO End faciallheadposeestimationandmarks
+2020-11-21 13:28:50,989 INFO Start gazeestimation
+2020-11-21 13:28:50,994 INFO Gaze results: ([[ 0.32730028 -0.36166894 -0.86177075]])
+2020-11-21 13:28:50,994 INFO End gazeestimation
+2020-11-21 13:28:51,023 INFO Start mousecontroller
+2020-11-21 13:28:52,305 INFO Start facedetection
+2020-11-21 13:28:52,401 INFO Inference facedetetion is finished
+2020-11-21 13:28:52,415 INFO Start faciallandmark
+2020-11-21 13:28:52,417 INFO End faciallandmarks
+2020-11-21 13:28:52,417 INFO Start headposeestimation
+2020-11-21 13:28:52,420 INFO End faciallheadposeestimationandmarks
+2020-11-21 13:28:52,420 INFO Start gazeestimation
+2020-11-21 13:28:52,426 INFO Gaze results: ([[ 0.1938051  -0.35682926 -0.8961432 ]])
+2020-11-21 13:28:52,426 INFO End gazeestimation
+2020-11-21 13:28:52,455 INFO Start mousecontroller
+2020-11-21 13:28:53,728 INFO Start facedetection
+2020-11-21 13:28:53,826 INFO Inference facedetetion is finished
+2020-11-21 13:28:53,841 INFO Start faciallandmark
+2020-11-21 13:28:53,843 INFO End faciallandmarks
+2020-11-21 13:28:53,844 INFO Start headposeestimation
+2020-11-21 13:28:53,847 INFO End faciallheadposeestimationandmarks
+2020-11-21 13:28:53,847 INFO Start gazeestimation
+2020-11-21 13:28:53,852 INFO Gaze results: ([[ 0.36359236 -0.22449833 -0.90622455]])
+2020-11-21 13:28:53,852 INFO End gazeestimation
+2020-11-21 13:28:53,882 INFO Start mousecontroller
+2020-11-21 13:28:55,151 INFO Start facedetection
+2020-11-21 13:28:55,246 INFO Inference facedetetion is finished
+2020-11-21 13:28:55,259 INFO Start faciallandmark
+2020-11-21 13:28:55,261 INFO End faciallandmarks
+2020-11-21 13:28:55,262 INFO Start headposeestimation
+2020-11-21 13:28:55,264 INFO End faciallheadposeestimationandmarks
+2020-11-21 13:28:55,265 INFO Start gazeestimation
+2020-11-21 13:28:55,270 INFO Gaze results: ([[ 0.40923408 -0.30031613 -0.8717012 ]])
+2020-11-21 13:28:55,270 INFO End gazeestimation
+2020-11-21 13:28:55,300 INFO Start mousecontroller
+2020-11-21 13:28:55,711 ERROR PyAutoGUI fail-safe triggered from mouse moving to a corner of the screen. To disable this fail-safe, set pyautogui.FAILSAFE to False. DISABLING FAIL-SAFE IS NOT RECOMMENDED.
