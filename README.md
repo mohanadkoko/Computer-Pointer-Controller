@@ -22,7 +22,7 @@ Openvino setup process : [guide](https://docs.openvinotoolkit.org/2020.2/_docs_i
 #### Step 1
 Clone the all the up repository by typing on the command lines below :
 ```
-put the command line 
+git clone https://github.com/mohanadkoko/Computer-Pointer-Controller.git 
 ```
 #### Step 2
 Initialize the openVINO environment:-
