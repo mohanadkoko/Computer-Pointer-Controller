@@ -1,3 +1,7 @@
+<p align="center">
+<img src="https://github.com/mohanadkoko/Computer-Pointer-Controller/blob/main/bin/openvino.png" />
+</p>
+
 # Computer Pointer Controller
 ## short introduction
 using gaze detection model to control the mouse pointer of a computer. You will be using the Gaze Estimation model to estimate the gaze of the user's eyes and change the mouse pointer position accordingly. This project will demonstrate your ability to run multiple models in the same machine and coordinate the flow of data between those models
