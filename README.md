@@ -158,6 +158,10 @@ The model load time and the inference time can be found in the logging_time.log 
 ## Results
 GPU proccesed more frames per second compared to any other hardware and specially when model precision is FP16 because GPU has severals Execution units and their instruction sets are optimized for 16bit floating point data types.
 my test has the lowest load time and the total on FP16 for my device .my device is intel `CORE I5`. since I tested the application with the demo video feed only, I was unable to test the accuracy for now.
+## SCREENSHOT 
+
+![This is a alt text.](/Computer-Pointer-Controller/bin/screenshot.jpg.")
+
 
 ### Comparison: Total model load time/Inference time
 ### Model load time & inference time  ***FP16***
